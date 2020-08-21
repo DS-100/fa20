@@ -2,7 +2,7 @@
 name: Marian Goldman
 role: Tutor
 email: marian5566@berkeley.edu
-photo: http://ds100.org/fa20/resources/assets/staff_pics/Marian_Goldman.jpg
+photo: http://ds100.org/fa20/resources/assets/staff_pics/Marian_Goldman.png
 oh: N/A
 ---
 
