@@ -2,7 +2,7 @@
 name: Angela Guan
 role: Tutor
 email: guanangela@berkeley.edu
-photo: http://ds100.org/fa20/resources/assets/staff_pics/Angela_Guan.jpg
+photo: http://ds100.org/fa20/resources/assets/staff_pics/Angela_Guan.png
 oh: N/A
 ---
 
