@@ -2,7 +2,7 @@
 name: Julie Yu
 role: Teaching Assistant
 email: julieyu@berkeley.edu
-photo: http://ds100.org/su20/resources/assets/staff_pics/Julie_Yu.jpg
+photo: http://ds100.org/fa20/resources/assets/staff_pics/Julie_Yu.jpg
 oh: N/A
 ---
 
