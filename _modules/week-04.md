@@ -2,30 +2,21 @@
 title: Week 4
 weekNumber: 4
 days:
-  - date: 2020-07-13
+  - date: 2020-09-14
     events:
-      "**Lecture 12**{: .label .label-lecture } [Simple Linear Regression](lecture/lec12)":
-        "[Ch. 13.1-13.3](https://www.textbook.ds100.org/ch/13/linear_tips.html)"
-      "**Discussion 7**{: .label .label-disc } [Correlation](https://drive.google.com/file/d/1yJmyqlSJ7O5JJDqWsJABjxd-V5f7EXAm/view?usp=sharing) ([video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfoNXIhW9dOhI5TThBmM43WY)) ([solutions](https://drive.google.com/file/d/17a19n1db8mGC8aZQANPPUWfcisdMoesq/view?usp=sharing))":
-      "**Survey 4**{: .label .label-survey } [Week 4 Survey + Midterm 2 Alt. Request](https://docs.google.com/forms/d/e/1FAIpQLSeyhhnHis7oANvqBYm-9OqMdMXlMxzG_Em8odgZkqtP2CTnLg/viewform) (due Jul. 15)":
-  - date: 2020-07-14
+      "**Lab 3**{: .label .label-lab } Lab 3":
+  - date: 2020-09-15
     events:
-      "**Lecture 13**{: .label .label-lecture } [Ordinary Least Squares](lecture/lec13)":
-        "[Ch. 13.4](https://www.textbook.ds100.org/ch/13/linear_projection.html)"
-      "**Lab 7**{: .label .label-lab } [Regression](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab07/) (due Jul. 14)":
-
-  - date: 2020-07-15
+      "**Lecture 6**{: .label .label-lecture } Pandas II":
+        "[Ch. 3](https://www.textbook.ds100.org/ch/03/pandas_intro.html)"
+  - date: 2020-09-16
     events:
-      "**Lecture 14**{: .label .label-lecture } [Feature Engineering](lecture/lec14)":
-        "[Ch. 14](https://www.textbook.ds100.org/ch/14/feature_engineering.html)"
-      "**Discussion 8**{: .label .label-disc } [Least Squares](https://drive.google.com/file/d/1PTaosA9vfg1W2CzalSB2--eyfukW-mJO/view?usp=sharing) ([video](https://www.youtube.com/playlist?list=PLQCcNQgUcDfrvyQb2cSwFxjjQ7l-s5oC_)) ([solutions](https://drive.google.com/file/d/1cTgYqwA96T70xfssuiw2AbO7TW0sVFmG/view?usp=sharing))":
-  - date: 2020-07-16
+      "**Discussion 3**{: .label .label-disc } Discussion 3":
+  - date: 2020-09-17
     events:
-      "**Lecture 15**{: .label .label-lecture } [Bias and Variance](lecture/lec15)":
-        "[12.3](https://www.textbook.ds100.org/ch/12/prob_risk.html), [15.1-15.2](https://www.textbook.ds100.org/ch/15/bias_risk.html)"
-      "**Homework 5**{: .label .label-hw } [Regression](resources/assets/hw/hw5.pdf) (due Jul. 19)":
-      "**Lab 8**{: .label .label-lab } [Feature Engineering](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lab/lab08/) (due Jul. 16)":
-  - date: 2020-07-17
+      "**Lecture 7**{: .label .label-lecture } Data Cleaning and EDA":
+        "[Ch. 4.1](https://www.textbook.ds100.org/ch/04/eda_data_types.html), [Ch. 5](https://www.textbook.ds100.org/ch/05/cleaning_intro.html)"
+  - date: 2020-09-18
     events:
-      "**Live Session 4**{: .label .label-live } Linear Models ([video](https://youtu.be/f-adF9gh1xo)) ([code](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lecture/live4/)) ([code HTML](resources/assets/lectures/live04/live4.html))":
+      "N/A":
 ---

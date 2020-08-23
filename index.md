@@ -30,6 +30,6 @@ UC Berkeley, Fall 2020
 
 <br><br>
 
-<!-- {% for module in site.modules %}
+{% for module in site.modules %}
 {{ module }}
-{% endfor %} -->
+{% endfor %}

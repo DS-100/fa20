@@ -53,11 +53,72 @@ This fall, Data 100 will be run entirely online. This section details exactly ho
 - To see when any live events are scheduled, check the [Calendar](../calendar).
 - To see when lectures, discussions, and assignments are released (and due), check the [Home Page](../).
 
+### Lecture
+
+- There are 2 lectures per week.
+- **Lectures will be entirely pre-recorded**, in a format that is optimized for online learning (short 5-10 minute videos with conceptual problems in between). Lecture videos will be released on the mornings of Tuesday and Thursday.
+  - Some of these will be from previous semesters, and some will be recorded this fall by the instructors.
+  - Lecture videos will be posted on YouTube. Each “lecture” will be an html page linked on the course website, containing videos and links to slides and code.
+  - There are "Quick Check" conceptual questions in between each lecture video, linked on the lecture webpage. These are meant for you to check your understanding of the concepts that were just introduced. **These are graded on completion.** For each lecture, you will be required to submit a code to Gradescope that you will receive after completing one of the Quick Checks for that lecture.
+  - Each lecture will also have a Piazza thread for students to ask questions.
+
+Note: Alongside each lecture are textbook readings. Textbook readings are purely supplementary, and may contain material that is not in scope (and may also not be comprehensive).
+
+<br>
+
+### Homeworks and Projects
+
+Homeworks are week-long assignments that are designed to help students develop an in-depth understanding of both the theoretical and practical aspects of ideas presented in lecture. Projects are two-week-long assignments that integrate these ideas with real-world datasets.
+
+- In a typical week, homework is released on Friday and is due the following Thursday at 11:59PM.
+- Near the midterm, or during weeks in which a project is assigned, you will have more than one week to work on the current assignment.
+- One or two homeworks will be on-paper written assignments; the rest will be Jupyter notebooks.
+- The primary form of support students will have for homeworks and projects are the **office hours** we’ll host, and **Piazza**.
+
+<br>
+
+### Labs
+
+Labs are shorter programming assignments designed to give students familiarity with new ideas.
+- In a typical week, lab is released on Friday and is due the following Tuesday.
+- To help with lab, we will host **live lab sections** on Monday at various times, in which GSIs will walk through the assignment via Zoom. See the [Calendar](../calendar) for when these are scheduled.
+- Students can also get help with labs at **office hours** and on **Piazza**.
+
+<br>
+
+### Discussions
+
+Discussion sections are meant to allow students a chance to discuss conceptual ideas and solve problems with other students, with the help of a GSI (this becomes slightly harder given the fact that this course is being offered completely remotely). Each discussion consists of a worksheet.
+
+- In a typical week, we will release the discussion worksheet on Wednesday morning.
+- There are two “pathways” we envision students taking when it comes to consuming discussion content.
+  1. Watching a pre-recorded discussion video.
+  - Each discussion worksheet will be accompanied with a GSI-created video walkthrough, released at the same time. Students should watch this video soon after it is released.
+  - With any lingering questions, students should come to office hours.
+  2. Coming to a live Zoom discussion section.
+  - We will be holding live discussion sections at several times on Wednesdays. In the first few weeks, students will be able to attend whichever section they desire, but we will eventually require you to sign up for a particular section if you want to keep attending (this is to keep sections small and personal).
+
+<br>
+
+### Office Hours
+- We plan on hosting roughly 10 hours of office hours each weekday. These hours are listed on the [Calendar](../calendar).
+- OH will serve as a one-stop shop for students to get help with assignments.
+- Office Hours can be accessed via [oh.ds100.org](oh.ds100.org), where students add themselves to the "queue" and specify the assignment they need help on. Once it's their turn, they will be provided with a Zoom link to join, in order to get help from staff.
+- The instructors will also be hosting conceptual office hours. These will be reflected on the [Calendar](../calendar).
+
+<br>
+
+### Exams
+
+There will be one midterm exam (tentatively scheduled for October 15th) and a final exam (scheduled by campus for December 15th, 3-6PM). Details about dates can be found in the policies section below.
+
 <br>
 
 <a name = 'policies'></a>
 
 ## Policies
+
+Grading breakdown is TBD
 
 ### Collaboration Policy and Academic Dishonesty
 
