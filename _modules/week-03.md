@@ -7,7 +7,7 @@ days:
       "**Lab 2**{: .label .label-lab } Lab 2":
   - date: 2020-09-08
     events:
-      "**Lecture 4**{: .label .label-lecture } [SQL](lecture/lec4)":
+      "**Lecture 4**{: .label .label-lecture } SQL":
         "[Ch. 9](https://www.textbook.ds100.org/ch/09/sql_intro.html)"
   - date: 2020-09-09
     events:
