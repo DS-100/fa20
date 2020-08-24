@@ -13,8 +13,6 @@ Jump to:
 - [Online Format](#format)
 - [Policies](#policies)
 
-**This page has yet to be updated for Fall 2020. Please stay tuned!**
-
 <br>
 
 <a name = 'about'></a>
@@ -48,7 +46,15 @@ While we are working to make this class widely accessible, we currently require 
 
 ## Online Format
 
-This fall, Data 100 will be run entirely online. This section details exactly how each component of the course will operate.
+This fall, Data 100 will be run entirely online. This section details exactly how each component of the course will operate. But here's a nice high-level "typical week in the course":
+
+| Monday | Tuesday | Wednesday | Thursday | Friday |
+| --- | --- | --- | --- | --- |
+| Office Hours | Office Hours | Office Hours | Office Hours | Office Hours |
+| <span style="color:Orange">Live lab</span> | <span style="color:Green">Lecture released</span> | <span style="color:Blue">Discussion</span> | <span style="color:Green">Lecture released</span> | <span style="color:Red">Homework released</span> |
+| <span style="color:Orange">**Lab due**</span>, <span style="color:Green">**Quick Check due**</span> | | | <span style="color:Red">**Homework due**</span> | <span style="color:Orange">Lab released</span> |
+
+Note that these deadlines are subject to change.
 
 - To see when any live events are scheduled, check the [Calendar](../calendar).
 - To see when lectures, discussions, and assignments are released (and due), check the [Home Page](../).
@@ -59,7 +65,7 @@ This fall, Data 100 will be run entirely online. This section details exactly ho
 - **Lectures will be entirely pre-recorded**, in a format that is optimized for online learning (short 5-10 minute videos with conceptual problems in between). Lecture videos will be released on the mornings of Tuesday and Thursday.
   - Some of these will be from previous semesters, and some will be recorded this fall by the instructors.
   - Lecture videos will be posted on YouTube. Each “lecture” will be an html page linked on the course website, containing videos and links to slides and code.
-  - There are "Quick Check" conceptual questions in between each lecture video, linked on the lecture webpage. These are meant for you to check your understanding of the concepts that were just introduced. **These are graded on completion.** For each lecture, you will be required to submit a code to Gradescope that you will receive after completing one of the Quick Checks for that lecture.
+  - There are "Quick Check" conceptual questions in between each lecture video, linked on the lecture webpage. See below for more details.
   - Each lecture will also have a Piazza thread for students to ask questions.
 
 Note: Alongside each lecture are textbook readings. Textbook readings are purely supplementary, and may contain material that is not in scope (and may also not be comprehensive).
@@ -68,7 +74,9 @@ Note: Alongside each lecture are textbook readings. Textbook readings are purely
 
 ### Quick Checks
 
-As mentioned above, Quick Checks are a part of your grade. More details about grading to come.
+Quick Checks, as mentioned above, are short conceptual questions embedded into each lecture, in the form of Google Forms. These are meant for you to check your understanding of the concepts that were just introduced. Since there are roughly 26 lectures, there are roughly 26 Quick Checks, each of which consists of 4-7 Google Forms.
+
+**Quick Checks are graded on completion.** That is, your score on them does not matter, you just need to do them. For each lecture, you will be required to submit a code to Gradescope that you will receive after completing one of the Google Forms for that lecture. These are due the Monday after the lecture is released. (Though we will assign grades using Gradescope, we will also collect emails on the Google Forms themselves.)
 
 <br>
 
@@ -79,7 +87,10 @@ Homeworks are week-long assignments that are designed to help students develop a
 - In a typical week, homework is released on Friday and is due the following Thursday at 11:59PM.
 - Near the midterm, or during weeks in which a project is assigned, you will have more than one week to work on the current assignment.
 - One or two homeworks will be on-paper written assignments; the rest will be Jupyter notebooks.
+- Homeworks have both visible and hidden autograder tests. The visible tests are mainly sanity checks, e.g. a probability is <= 1, and are visible to students while they do the assignment. The hidden tests generally check for correctness, and are invisible to students while they are doing the assignment.
 - The primary form of support students will have for homeworks and projects are the **office hours** we’ll host, and **Piazza**.
+- Homeworks must be completed individually.
+
 
 <br>
 
@@ -87,6 +98,7 @@ Homeworks are week-long assignments that are designed to help students develop a
 
 Labs are shorter programming assignments designed to give students familiarity with new ideas.
 - In a typical week, lab is released on Friday and is due the following Tuesday.
+- All lab autograder tests are visible.
 - To help with lab, we will host **live lab sections** on Monday at various times, in which GSIs will walk through the assignment via Zoom. See the [Calendar](../calendar) for when these are scheduled.
 - Students can also get help with labs at **office hours** and on **Piazza**.
 
@@ -116,7 +128,9 @@ Discussion sections are meant to allow students a chance to discuss conceptual i
 
 ### Exams
 
-There will be one midterm exam (tentatively scheduled for October 15th) and a final exam (scheduled by campus for December 15th, 3-6PM). Details about dates can be found in the policies section below.
+There will be one midterm exam, on **October 15th** (time TBD), and a final exam on **December 15th** (time TBD).
+
+Alternate exams will only be given to students with a documented conflict, or to those who are in timezones very far from PDT.
 
 <br>
 
@@ -124,7 +138,38 @@ There will be one midterm exam (tentatively scheduled for October 15th) and a fi
 
 ## Policies
 
-Grading breakdown is TBD
+**Undergraduate Grading Scheme** (for students enrolled in Data C100):
+
+| Category | Weight | Details |
+| --- | --- | --- |
+| Homeworks | 30% | Roughly 8, with 1 drop |
+| Labs | 10% | Roughly 13, with 3 drops |
+| Projects | 15% | 7.5% each (2, with 0 drops) |
+| Quick Checks | 5% | Details TBD |
+| Midterm Exam | 15% |  |
+| Final | 25% |  |
+
+**Graduate Grading Scheme** (for students enrolled in Data C200):
+
+| Category | Weight | Details |
+| --- | --- | --- |
+| Homeworks | 30% | Roughly 8, with 1 drop |
+| Projects | 15% | 7.5% each (2, with 0 drops) |
+| Final Project | 15% | |
+| Midterm Exam | 15% |  |
+| Final | 25% |  |
+
+<br>
+
+### Late Policy
+All assignments are due at 11:59 pm on the due date specified on the syllabus. **Gradescope is where all assignments are submitted.** Extensions are only provided to students with DSP accommodations, or in the case of exceptional circumstances.
+- **Homeworks and labs will not be accepted late.**
+  - Gradescope may allow you to make late submissions, but you will later be given
+  a 0.
+- Projects are marked down by 10% per day, **up to two days**. After two days, project submissions will not be accepted.
+  - Submission times are rounded up to the next day. That is, 2 minutes late = 1 day late.
+
+<br>
 
 ### Collaboration Policy and Academic Dishonesty
 

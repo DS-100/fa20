@@ -14,8 +14,8 @@ days:
       "**Discussion 6**{: .label .label-disc } Discussion 6":
   - date: 2020-10-08
     events:
-    "**Lecture 13**{: .label .label-lecture } Ordinary Least Squares":
-      "[Ch. 13.4](https://www.textbook.ds100.org/ch/13/linear_projection.html)"
+      "**Lecture 13**{: .label .label-lecture } Ordinary Least Squares":
+        "[Ch. 13.4](https://www.textbook.ds100.org/ch/13/linear_projection.html)"
   - date: 2020-10-09
     events:
       "**Homework 5**{: .label .label-hw } Regression":

@@ -26,6 +26,7 @@ UC Berkeley, Fall 2020
 <li>All announcements are on <a href="http://piazza.com/berkeley/fall2020/data100">Piazza</a>. Make sure you are enrolled and active there.</li>
 <li>The <a href="{{ site.baseurl }}/syllabus">Syllabus</a> contains a detailed explanation of how each course component will work this fall, given that the course is being taught entirely online.</li>
 <li>The scheduling of all weekly events is in the <a href="{{ site.baseurl }}/calendar">Calendar</a>.</li>
+<li>The Zoom links for all live events are in <a href="https://piazza.com/class/ke37haavnl86ul?cid=15">@15 on Piazza</a>.</li>
 </ul>
 
 <br><br>

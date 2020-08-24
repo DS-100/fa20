@@ -7,7 +7,7 @@ days:
       "**Lab 13**{: .label .label-lab } Lab 13":
   - date: 2020-11-24
     events:
-      "**Lecture 24**{: .label .label-lecture } PCA":
+      "**Lecture 25**{: .label .label-lecture } PCA":
   - date: 2020-11-25
     events:
       "N/A (Thanksgiving)":
