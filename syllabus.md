@@ -66,6 +66,12 @@ Note: Alongside each lecture are textbook readings. Textbook readings are purely
 
 <br>
 
+### Quick Checks
+
+As mentioned above, Quick Checks are a part of your grade. More details about grading to come.
+
+<br>
+
 ### Homeworks and Projects
 
 Homeworks are week-long assignments that are designed to help students develop an in-depth understanding of both the theoretical and practical aspects of ideas presented in lecture. Projects are two-week-long assignments that integrate these ideas with real-world datasets.
