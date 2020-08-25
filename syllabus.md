@@ -97,7 +97,7 @@ Homeworks are week-long assignments that are designed to help students develop a
 ### Labs
 
 Labs are shorter programming assignments designed to give students familiarity with new ideas.
-- In a typical week, lab is released on Friday and is due the following Tuesday.
+- In a typical week, lab is released on Friday and is due the following Monday.
 - All lab autograder tests are visible.
 - To help with lab, we will host **live lab sections** on Monday at various times, in which GSIs will walk through the assignment via Zoom. See the [Calendar](../calendar) for when these are scheduled.
 - Students can also get help with labs at **office hours** and on **Piazza**.
