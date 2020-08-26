@@ -121,7 +121,7 @@ Discussion sections are meant to allow students a chance to discuss conceptual i
 ### Office Hours
 - We plan on hosting roughly 10 hours of office hours each weekday. These hours are listed on the [Calendar](../calendar).
 - OH will serve as a one-stop shop for students to get help with assignments.
-- Office Hours can be accessed via [oh.ds100.org](oh.ds100.org), where students add themselves to the "queue" and specify the assignment they need help on. Once it's their turn, they will be provided with a Zoom link to join, in order to get help from staff.
+- Office Hours can be accessed via [oh.ds100.org](https://oh.ds100.org), where students add themselves to the "queue" and specify the assignment they need help on. Once it's their turn, they will be provided with a Zoom link to join, in order to get help from staff.
 - The instructors will also be hosting conceptual office hours. These will be reflected on the [Calendar](../calendar).
 
 <br>
