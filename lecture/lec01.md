@@ -15,7 +15,7 @@ Content by Suraj Rampure, Allen Shen, Joseph Gonzalez, Josh Hug, and Sam Lau
 - [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lecture/lec01/)
 - [code HTML](../../resources/assets/lectures/lec01/lec01.html)
 
-Welcome to Data 100, and to a new lecture format! The right column of the table below contains **Quick Checks**. These are required – they are worth 5% of your grade if you are an undergraduate – but are graded on completion, not correctness. A random one of the following six Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 1" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check.
+Welcome to Data 100, and to a new lecture format! The right column of the table below contains **Quick Checks**. These are required – they are worth 5% of your grade if you are an undergraduate – but are graded on completion, not correctness. A random one of the following six Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 1" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check. You must submit this by **Monday, August 31st at 11:59PM** to get credit for it.
 
 <table>
 <colgroup>
