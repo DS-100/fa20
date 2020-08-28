@@ -11,6 +11,6 @@ days:
         "[Ch. 1](https://www.textbook.ds100.org/ch/01/lifecycle_intro.html)"
   - date: 2020-08-28
     events:
-      "**Homework 1**{: .label .label-hw } Prerequisites (due Sept. 3)":
+      "**Homework 1**{: .label .label-hw } [Prerequisites](resources/assets/hw/hw1.pdf) (due Sept. 3)":
 
 ---
