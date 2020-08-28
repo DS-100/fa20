@@ -1,0 +1,1 @@
+test = {'name': 'q5b1', 'points': 1, 'suites': [{'cases': [{'code': '>>> np.isclose(p_hat, 0.4)\nTrue', 'hidden': False, 'locked': False}], 'scored': True, 'setup': '', 'teardown': '', 'type': 'doctest'}]}
