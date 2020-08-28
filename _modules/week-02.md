@@ -4,7 +4,7 @@ weekNumber: 2
 days:
   - date: 2020-08-31
     events:
-      "**Lab 1**{: .label .label-lab } Lab 1":
+      "**Lab 1**{: .label .label-lab } [Prerequisite Coding](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lab/lab01/) (due Aug. 31)":
   - date: 2020-09-01
     events:
       "**Lecture 2**{: .label .label-lecture } Data Sampling and Probability I":
