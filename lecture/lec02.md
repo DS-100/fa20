@@ -31,7 +31,7 @@ A reminder – the right column of the table below contains **Quick Checks**. Th
 <tbody>
 <tr>
 <td><strong>2.1</strong> <br> Censuses and surveys. Issues with the US Census.</td>
-<td><iframe width="300" height="300" height src="https://youtube.com/embed/3muR3SfU0dk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="300" height="300" height src="https://youtube.com/embed/1Ljtrhh_LBs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSdicnNq5DDOtqGePTGbF7i8Hi34ZmvOp9cLfcJDWNctC12YMA/viewform" target="\_blank">2.1</a></td>
 </tr>
 <tr>
