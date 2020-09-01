@@ -7,7 +7,7 @@ days:
       "**Lab 1**{: .label .label-lab } [Prerequisite Coding](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lab/lab01/) (due Aug. 31)":
   - date: 2020-09-01
     events:
-      "**Lecture 2**{: .label .label-lecture } [Data Sampling and Probability](lecture/lec02)":
+      "**Lecture 2**{: .label .label-lecture } [Data Sampling and Probability](lecture/lec02) (QC due Sept. 7)":
         "[Ch. 2](https://www.textbook.ds100.org/ch/02/design_intro.html)"
   - date: 2020-09-02
     events:
