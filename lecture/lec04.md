@@ -12,12 +12,12 @@ Content by Anthony D. Joseph, Allen Shen, Josh Hug, John DeNero, Joseph Gonzalez
 
 - [slides](https://docs.google.com/presentation/d/1iM8dv-LFEghSMQr4-sh6JnaAUGHV-3j4FLu-718YCzU/edit?usp=sharing)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfpoTAh65AL_k1hVjNE-Kw5X)
-- [code](TBD)
-- [code HTML](TBD)
-- [code walkthrough (Josh Hug)](https://youtu.be/QCrHZnLM0H4)
-- [code walkthrough (Allen Shen)](https://youtu.be/zetdBg61eaE)
+- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lecture/lec04/)
+- [code HTML](../../resources/assets/lectures/lec04/lec04.html)
+- [(optional) code walkthrough by Josh Hug](https://youtu.be/QCrHZnLM0H4)
+- [(optional) code walkthrough by Allen Shen](https://youtu.be/zetdBg61eaE)
 
-Make sure to complete the Quick Check questions in between each video. These are ungraded, but it's in your best interest to do them.
+A random one of the following nine Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 4" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check. You must submit this by **Monday, September 14th at 11:59PM** to get credit for it.
 
 <table>
 <colgroup>
@@ -77,14 +77,4 @@ Make sure to complete the Quick Check questions in between each video. These are
 <td><strong>4.9</strong> <br> SQL summary and conclusion.</td>
 <td><iframe width="300" height="300" height src="https://youtube.com/embed/ch0LW6R1VrM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfJK4hk4Ue9jicRYEro0goTEyqz7EgbcaQ3WTDnWdnU9ehY8Q/viewform" target="\_blank">4.9</a></td>
-</tr>
-<tr>
-<td><strong>Notebook</strong> <br> Notebook walkthrough (Josh Hug).</td>
-<td><iframe width="300" height="300" height src="https://www.youtube.com/embed/QCrHZnLM0H4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-<td>N/A</td>
-</tr>
-<tr>
-<td><strong>Notebook</strong> <br> Notebook walkthrough (Allen Shen).</td>
-<td><iframe width="300" height="300" height src="https://www.youtube.com/embed/zetdBg61eaE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-<td>N/A</td>
 </tr>

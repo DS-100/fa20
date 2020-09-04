@@ -14,7 +14,7 @@ Content by Anthony D. Joseph, Suraj Rampure, Ani Adhikari
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqDdf4LE2pzibpXBUXeuSAJ)
 - (supplemental) [Stat 88 chapter on distributions](http://stat88.org/textbook/notebooks/Chapter_03/03_The_Binomial_Distribution.html)
 
-Make sure to complete the Quick Check questions in between each video. These are ungraded, but it's in your best interest to do them.
+A random one of the following six Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 3" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check. You must submit this by **Monday, September 7th at 11:59PM** to get credit for it.
 
 <table>
 <colgroup>
