@@ -14,8 +14,8 @@ Content by Anthony D. Joseph, Allen Shen, Josh Hug, John DeNero, Joseph Gonzalez
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfpoTAh65AL_k1hVjNE-Kw5X)
 - [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lecture/lec04/)
 - [code HTML](../../resources/assets/lectures/lec04/lec04.html)
-- [(optional) code walkthrough by Josh Hug](https://youtu.be/QCrHZnLM0H4)
-- [(optional) code walkthrough by Allen Shen](https://youtu.be/zetdBg61eaE)
+- [code walkthrough by Josh Hug](https://youtu.be/QCrHZnLM0H4)
+- [code walkthrough by Allen Shen](https://youtu.be/zetdBg61eaE)
 
 A random one of the following nine Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 4" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check. You must submit this by **Monday, September 14th at 11:59PM** to get credit for it.
 
