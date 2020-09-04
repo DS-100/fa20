@@ -18,5 +18,5 @@ days:
         "[Ch. 12.1-12.2](https://www.textbook.ds100.org/ch/12/prob_random_vars.html)"
   - date: 2020-09-04
     events:
-      "**Homework 2**{: .label .label-hw } Trump Sampling":
+      "**Homework 2**{: .label .label-hw } [Trump Sampling](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=hw/hw2/) (due Sept. 10)":
 ---
