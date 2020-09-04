@@ -2,9 +2,9 @@
 title: Week 3
 weekNumber: 3
 days:
-  - date: 2020-09-07
+  - date: 2020-09-08
     events:
-      "**Lab 2**{: .label .label-lab } Lab 2":
+      "**Lab 2**{: .label .label-lab } [SQL](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lab/lab02/) (due Sept. 8th)":
   - date: 2020-09-08
     events:
       "**Lecture 4**{: .label .label-lecture } [SQL](lecture/lec04) (QC due Sept. 14)":
