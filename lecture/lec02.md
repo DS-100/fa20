@@ -13,7 +13,7 @@ Content by Fernando Perez, Suraj Rampure, Ani Adhikari, and Joseph Gonzalez
 - [slides](https://docs.google.com/presentation/d/1pI4shcpHeNU9vjOaG9l7cYfPe4GWy6hXICpQR8zTH1A/edit#slide=id.p)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfpjH59_cVjMZ1ZwFgBFDfIu)
 
-A reminder – the right column of the table below contains **Quick Checks**. These are required – they are worth 5% of your grade if you are an undergraduate – but are graded on completion, not correctness. A random one of the following six Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 2" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check. You must submit this by **Monday, September 7th at 11:59PM** to get credit for it.
+A reminder – the right column of the table below contains **Quick Checks**. These are required – they are worth 5% of your grade if you are an undergraduate – but are graded on completion, not correctness. A random one of the following six Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 2" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check. You must submit this by **Tuesday, September 8th at 11:59PM** to get credit for it.
 
 <table>
 <colgroup>
