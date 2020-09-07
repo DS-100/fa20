@@ -13,7 +13,7 @@ days:
       "**Discussion 7**{: .label .label-disc } Discussion 7":
   - date: 2020-10-15
     events:
-      "**Exam**{: .label .label-exam } Midterm (date tentative, time TBD)":
+      "**Exam**{: .label .label-exam } Midterm (7:10-9:00 PM PDT)":
   - date: 2020-10-16
     events:
       "N/A":
