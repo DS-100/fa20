@@ -128,7 +128,7 @@ Discussion sections are meant to allow students a chance to discuss conceptual i
 
 ### Exams
 
-There will be one midterm exam, on **October 15th** (time TBD), and a final exam on **December 15th** (time TBD).
+There will be one midterm exam, on **October 15th** (7-9PM PDT), and a final exam on **December 15th** (7-10PM PDT).
 
 Alternate exams will only be given to students with a documented conflict, or to those who are in timezones very far from PDT.
 
