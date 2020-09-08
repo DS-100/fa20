@@ -70,7 +70,7 @@ A random one of the following nine Google Forms will give you an alphanumeric co
 </tr>
 <tr>
 <td><strong>4.8</strong> <br> SQL CASE expressions and the SUBSTR function.</td>
-<td><iframe width="300" height="300" height src="https://youtube.com/embed/wIUn5gxl7DA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="300" height="300" height src="https://youtube.com/embed/xKEPn9jcSy4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfk0Dw-dgH_jx6OTg2KXUxTBtH7Napj-yBbZI1O04Bf6PauZA/viewform" target="\_blank">4.8</a></td>
 </tr>
 <tr>
