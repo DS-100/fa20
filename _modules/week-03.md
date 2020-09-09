@@ -11,7 +11,7 @@ days:
         "[Ch. 9](https://www.textbook.ds100.org/ch/09/sql_intro.html)"
   - date: 2020-09-09
     events:
-      "**Discussion 2**{: .label .label-disc } Discussion 2":
+      "**Discussion 2**{: .label .label-disc } [Random Variables and SQL](https://drive.google.com/file/d/1i18EnEn_YW_btqIY0KI2FlIbRzb3tY5P/view?usp=sharing) [(video)](https://www.youtube.com/playlist?list=PLQCcNQgUcDfpT5G6FUwvEbxLI-3kR3nnP)":
   - date: 2020-09-10
     events:
       "**Lecture 5**{: .label .label-lecture } Pandas I":
