@@ -180,6 +180,7 @@ If we suspect that you have submitted plagiarized work, we will call you in for 
 
 Rather than copying someone else's work, ask for help. You are not alone in this course! The entire staff is here to help you succeed. If you invest the time to learn the material and complete the assignments, you won't need to copy any answers. (taken from [61A](https://cs61a.org/articles/about.html#academic-honesty))
 
+We also ask that you **do not post your assignment solutions publicly**.
 
 #### Exams
 
