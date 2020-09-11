@@ -18,5 +18,5 @@ days:
         "[Ch. 3](https://www.textbook.ds100.org/ch/03/pandas_intro.html)"
   - date: 2020-09-11
     events:
-      "**Project 1**{: .label .label-proj } [Food Safety](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/sem&subPath=proj/proj1/) (due Sept. 24)":
+      "**Project 1**{: .label .label-proj } [Food Safety](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=proj/proj1/) (due Sept. 24)":
 ---
