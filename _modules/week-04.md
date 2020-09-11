@@ -4,7 +4,7 @@ weekNumber: 4
 days:
   - date: 2020-09-14
     events:
-      "**Lab 3**{: .label .label-lab } Lab 3":
+      "**Lab 3**{: .label .label-lab } [Pandas I](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lab/lab03/) (due Sept. 14)":
   - date: 2020-09-15
     events:
       "**Lecture 6**{: .label .label-lecture } Pandas II":
