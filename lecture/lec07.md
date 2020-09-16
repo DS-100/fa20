@@ -12,7 +12,8 @@ Content by Anthony D. Joseph, Joseph Gonzalez, Deborah Nolan, Joseph Hellerstein
 
 - [slides](https://docs.google.com/presentation/d/1_bjyzr7Wd4-jJurzSKoYKuNk0JJi_XI8o-xkMKN3qf4/edit?usp=sharing)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfrC8HnYAXhuJ3qkLT-wU0Oy)
-- [code](TODO)
+- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lecture/lec07/)
+- [code HTML](../../resources/assets/lectures/lec07/lec07.html)
 - [(bonus) Joe Hellerstein's primer on data models](https://drive.google.com/file/d/1nLftW2PaJNot-J9zIgES4HchXTTrB_63/view?usp=sharing)
 
 A random one of the following Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 7" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check. You must submit this by **Monday, September 21st at 11:59PM** to get credit for it.
