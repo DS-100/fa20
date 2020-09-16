@@ -16,7 +16,7 @@ Content by Fernando Perez, Josh Hug
 - [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lecture/lec06/)
 - [code HTML](../../resources/assets/lectures/lec06/lec06.html), [joins code HTML](../../resources/assets/lectures/lec06/lec06_joins.html)
 
-A random one of the following Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 4" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check. You must submit this by **Monday, September 21st at 11:59PM** to get credit for it.
+A random one of the following Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 6" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check. You must submit this by **Monday, September 21st at 11:59PM** to get credit for it.
 
 <table>
 <colgroup>
