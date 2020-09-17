@@ -4,7 +4,7 @@ weekNumber: 5
 days:
   - date: 2020-09-21
     events:
-      "**Lab 4**{: .label .label-lab } Lab 4":
+      "**Lab 4**{: .label .label-lab } [Data Cleaning and EDA](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lab/lab04/) (due Sept. 21)":
   - date: 2020-09-22
     events:
       "**Lecture 8**{: .label .label-lecture } Regular Expressions":
