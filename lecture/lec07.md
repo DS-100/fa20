@@ -68,7 +68,7 @@ A random one of the following Google Forms will give you an alphanumeric code on
 <td><a href="https://docs.google.com/forms/d/e/1FAIpQLScPFnU-x3IuHY4G9mas5f9crJhJQdsxAk5X8q7paG4Ogr9I2g/viewform" target="\_blank">7.7</a></td>
 </tr>
 <tr>
-<td><strong>7.8</strong> <br>A demo of EDA on real data.</td>
+<td><strong>(Optional) 7.8</strong> <br>A demo of EDA on real data.</td>
 <td><iframe width="300" height="300" height src="https://youtube.com/embed/Ta2MysR0_G0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-<td><a href="https://docs.google.com/forms/d/e/1FAIpQLSclFVaAUZBWMzF5HWnPPRG7d_-2sOUsTcQGmXwJzI6cW_jmYw/viewform" target="\_blank">7.8</a></td>
+<td>N/A</td>
 </tr>
