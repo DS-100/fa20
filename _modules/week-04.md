@@ -11,7 +11,7 @@ days:
         "[Ch. 3](https://www.textbook.ds100.org/ch/03/pandas_intro.html)"
   - date: 2020-09-16
     events:
-      "**Discussion 3**{: .label .label-disc } [Pandas](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=disc/disc03/) [(video)](https://www.youtube.com/playlist?list=PLQCcNQgUcDfowC1_PqpLMkbVif2EBgWjT)":
+      "**Discussion 3**{: .label .label-disc } [Pandas](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=disc/disc03/) [(video)](https://www.youtube.com/playlist?list=PLQCcNQgUcDfowC1_PqpLMkbVif2EBgWjT) [(solutions)](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=disc/disc03/disc03-pandas-solutions.ipynb)":
   - date: 2020-09-17
     events:
       "**Lecture 7**{: .label .label-lecture } [Data Cleaning and EDA](lecture/lec07) (QC due Sept. 21)":
