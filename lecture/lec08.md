@@ -36,6 +36,7 @@ A random one of the following Google Forms will give you an alphanumeric code on
 <td><iframe width="300" height="300" height src="https://youtube.com/embed/_KeJFK92pTc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSceitf_EITjWs6tGls_b1UjhlQopmbDNvaY2fgJ4g4du1anzg/viewform" target="\_blank">8.1</a></td>
 </tr>
+<tr>
 <td><strong>8.2</strong> <br> Using the split method to extract from textual data.</td>
 <td><iframe width="300" height="300" height src="https://youtube.com/embed/R9YlR7-zIQM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSdeXKQfplZ3zObNl9zIKH4A5yPuluNhCnR0k57nI9cyvfwGmw/viewform" target="\_blank">8.2</a></td>
