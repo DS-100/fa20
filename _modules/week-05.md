@@ -11,7 +11,7 @@ days:
         "[Ch. 8](https://www.textbook.ds100.org/ch/08/text_intro.html)"
   - date: 2020-09-23
     events:
-      "**Discussion 4**{: .label .label-disc } Discussion 4":
+      "**Discussion 4**{: .label .label-disc } Discussion 4 [Regex](https://drive.google.com/file/d/1NVRTIDDLL48TJVCP31Nds3hI1Gkjn04Y/view?usp=sharing) [(notebook)](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=disc/disc04/disc04_regex_blank.ipynb) [(video)](https://www.youtube.com/playlist?list=PLQCcNQgUcDfo9f6YO8PrmRAwYtIG-2rye)":
   - date: 2020-09-24
     events:
       "**Lecture 9**{: .label .label-lecture } Visualization I":
