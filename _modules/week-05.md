@@ -14,7 +14,7 @@ days:
       "**Discussion 4**{: .label .label-disc } [Regex](https://drive.google.com/file/d/1NVRTIDDLL48TJVCP31Nds3hI1Gkjn04Y/view?usp=sharing) [(notebook)](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=disc/disc04/disc04_regex_sols.ipynb) [(video)](https://www.youtube.com/playlist?list=PLQCcNQgUcDfo9f6YO8PrmRAwYtIG-2rye) [(solutions)](https://drive.google.com/file/d/1hlatdwebECQHGo-hy_iuSmJ-SuS1EaX4/view?usp=sharing)":
   - date: 2020-09-24
     events:
-      "**Lecture 9**{: .label .label-lecture } Visualization I":
+      "**Lecture 9**{: .label .label-lecture } [Visualization I](lecture/lec09) (QC due Sept. 28)":
         "[Ch. 6.1-6.3](https://www.textbook.ds100.org/ch/06/viz_quantitative.html)"
   - date: 2020-09-25
     events:
