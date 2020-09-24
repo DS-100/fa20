@@ -4,7 +4,7 @@ weekNumber: 6
 days:
   - date: 2020-09-28
     events:
-      "**Lab 5**{: .label .label-lab } Lab 5":
+      "**Lab 5**{: .label .label-lab } [Transformations and KDEs](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lab/lab05/) (due Sept. 28)":
   - date: 2020-09-29
     events:
       "**Lecture 10**{: .label .label-lecture } Visualization II":
