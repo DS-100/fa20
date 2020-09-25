@@ -18,5 +18,5 @@ days:
         "[Ch. 6.1-6.3](https://www.textbook.ds100.org/ch/06/viz_quantitative.html)"
   - date: 2020-09-25
     events:
-      "**Homework 3**{: .label .label-hw } Bike Sharing":
+      "**Homework 3**{: .label .label-hw } [Bike Sharing](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=hw/hw3/) (due Oct. 1)":
 ---
