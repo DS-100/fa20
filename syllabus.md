@@ -123,6 +123,7 @@ Discussion sections are meant to allow students a chance to discuss conceptual i
 - OH will serve as a one-stop shop for students to get help with assignments.
 - Office Hours can be accessed via [oh.ds100.org](https://oh.ds100.org), where students add themselves to the "queue" and specify the assignment they need help on. Once it's their turn, they will be provided with a Zoom link to join, in order to get help from staff.
 - The instructors will also be hosting conceptual office hours. These will be reflected on the [Calendar](../calendar).
+- We are also holding "lost office hours" once a week. These are designed to accommodate students who are behind on material and would like help catching up. These are meant for conceptual questions only, not for assignment help. These will also be reflected on the [Calendar](../calendar).
 
 <br>
 
@@ -142,22 +143,24 @@ Alternate exams will only be given to students with a documented conflict, or to
 
 | Category | Weight | Details |
 | --- | --- | --- |
-| Homeworks | 30% | Roughly 8, with 1 drop |
+| Homeworks | 30% | 9, with 2 drops |
 | Labs | 10% | Roughly 13, with 3 drops |
 | Projects | 15% | 7.5% each (2, with 0 drops) |
-| Quick Checks | 5% | Details TBD |
-| Midterm Exam | 15% |  |
+| Quick Checks | 5% | |
+| Midterm Exam | 15% | |
 | Final | 25% |  |
 
 **Graduate Grading Scheme** (for students enrolled in Data C200):
 
 | Category | Weight | Details |
 | --- | --- | --- |
-| Homeworks | 30% | Roughly 8, with 1 drop |
+| Homeworks | 30% | 9, with 2 drops |
 | Projects | 15% | 7.5% each (2, with 0 drops) |
 | Final Project | 15% | |
 | Midterm Exam | 15% |  |
 | Final | 25% |  |
+
+Note that a ninth homework and second homework drop were announced partway through the semester.
 
 <br>
 
