@@ -69,6 +69,6 @@ Make sure to complete the Quick Check questions in between each video. These are
 </tr>
 <tr>
 <td><strong>10.7</strong> <br>Discussing why we prefer linear relationships. Understanding how to "reverse-engineer" a linearized relationship to determine the true relationship. Identifying which transformations to use in order to linearize a relationship.</td>
-<td><iframe width="300" height="300" height src="TBD" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="300" height="300" height src="https://youtube.com/embed/zA-Cy887CXM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSehcbc_dU2AQ4V7c9FH9ictrYKkH26HJYzygSsTgQxV3disLw/viewform" target="\_blank">10.7</a></td>
 </tr>
