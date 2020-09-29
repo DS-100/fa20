@@ -7,7 +7,7 @@ days:
       "**Lab 5**{: .label .label-lab } [Transformations and KDEs](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lab/lab05/) (due Sept. 28)":
   - date: 2020-09-29
     events:
-      "**Lecture 10**{: .label .label-lecture } Visualization II":
+      "**Lecture 10**{: .label .label-lecture } [Visualization II](lecture/lec10) (QC due Oct. 5)":
         "[Ch. 6.4-6.6](https://www.textbook.ds100.org/ch/06/viz_principles.html)"
   - date: 2020-09-30
     events:
