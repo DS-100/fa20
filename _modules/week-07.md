@@ -4,7 +4,7 @@ weekNumber: 7
 days:
   - date: 2020-10-05
     events:
-      "**Lab 6**{: .label .label-lab } Lab 6":
+      "**Lab 6**{: .label .label-lab } [Modeling, Summary Statistics, and Loss Functions](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lab/lab06/) (due Oct. 5)":
   - date: 2020-10-06
     events:
       "**Lecture 12**{: .label .label-lecture } Simple Linear Regression":
