@@ -14,7 +14,7 @@ days:
       "**Discussion 5**{: .label .label-disc } [Visualizations](https://drive.google.com/file/d/1u-uDV1NFvzf-dx1OCy1_ANhvDmZM2wNP/view?usp=sharing) [(notebook)](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=disc/disc05/vis_demo.ipynb) [(video)](https://www.youtube.com/playlist?list=PLQCcNQgUcDfpkBmXBjfFaxMmpKWceTql8) [(solutions)](https://drive.google.com/file/d/19L4O-1W-AvBEH4Oo9pDI5LgzRVuzMioO/view?usp=sharing)":
   - date: 2020-10-01
     events:
-      "**Lecture 11**{: .label .label-lecture } Modeling":
+      "**Lecture 11**{: .label .label-lecture } [Modeling](lecture/lec11) (QC due Oct. 5)":
         "[Ch. 10](https://www.textbook.ds100.org/ch/10/modeling_intro.html)"
   - date: 2020-10-02
     events:
