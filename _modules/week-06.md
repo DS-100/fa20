@@ -18,5 +18,5 @@ days:
         "[Ch. 10](https://www.textbook.ds100.org/ch/10/modeling_intro.html)"
   - date: 2020-10-02
     events:
-      "**Homework 4**{: .label .label-hw } Trump Tweets":
+      "**Homework 4**{: .label .label-hw } [Trump Tweets](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=hw/hw4/) (due Oct. 8)":
 ---
