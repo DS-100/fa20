@@ -11,7 +11,7 @@ days:
         "[Ch. 13.1-13.3](https://www.textbook.ds100.org/ch/13/linear_tips.html)"
   - date: 2020-10-07
     events:
-      "**Discussion 6**{: .label .label-disc } Discussion 6":
+      "**Discussion 6**{: .label .label-disc } [Modeling and Linear Regression](https://drive.google.com/file/d/1YGg0_TPjlqfaGNsFGkwasXD9OiDfdKEq/view?usp=sharing) [(video)](https://www.youtube.com/playlist?list=PLQCcNQgUcDfquWh9gXz6u4hE2K6a7HBoI)":
   - date: 2020-10-08
     events:
       "**Lecture 13**{: .label .label-lecture } Ordinary Least Squares":
