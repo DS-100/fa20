@@ -18,5 +18,5 @@ days:
         "[Ch. 13.4](https://www.textbook.ds100.org/ch/13/linear_projection.html)"
   - date: 2020-10-09
     events:
-      "**Homework 5**{: .label .label-hw } Regression":
+      "**Homework 5**{: .label .label-hw } [Regression](resources/assets/hw/hw5.pdf) (due Oct. 22)":
 ---
