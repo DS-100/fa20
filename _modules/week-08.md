@@ -10,7 +10,7 @@ days:
       "**Review Sessions**{: .label .label-lecture } Midterm Review":
   - date: 2020-10-14
     events:
-      "**Discussion 7**{: .label .label-disc } Discussion 7":
+      "**Discussion 7**{: .label .label-disc } [Least Squares](https://drive.google.com/file/d/1yIZeloz40_N2dn2YLvDGRS9k3Sj5Gyp2/view?usp=sharing) [(video)](https://www.youtube.com/playlist?list=PLQCcNQgUcDfpLY78FW99TShVj_nD30xXO) [(solutions)](https://drive.google.com/file/d/1iGEMBz14B29tE1_k0y9gbEH5CWqroeCK/view?usp=sharing)":
   - date: 2020-10-15
     events:
       "**Exam**{: .label .label-exam } Midterm (7-9PM PDT)":
