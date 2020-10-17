@@ -4,7 +4,7 @@ weekNumber: 10
 days:
   - date: 2020-10-26
     events:
-      "**Lab 9**{: .label .label-lab } Lab 9":
+      "**Lab 8**{: .label .label-lab } Lab 8":
   - date: 2020-10-27
     events:
       "**Lecture 16**{: .label .label-lecture } Bias and Variance":

@@ -4,7 +4,7 @@ weekNumber: 13
 days:
   - date: 2020-11-16
     events:
-      "**Lab 12**{: .label .label-lab } Lab 12":
+      "**Lab 11**{: .label .label-lab } Lab 11":
   - date: 2020-11-17
     events:
       "**Lecture 22**{: .label .label-lecture } Inference for Modeling":

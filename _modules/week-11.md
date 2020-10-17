@@ -4,7 +4,7 @@ weekNumber: 11
 days:
   - date: 2020-11-02
     events:
-      "**Lab 10**{: .label .label-lab } Lab 10":
+      "**Lab 9**{: .label .label-lab } Lab 9":
   - date: 2020-11-03
     events:
       "**Lecture 18**{: .label .label-lecture } Gradient Descent":

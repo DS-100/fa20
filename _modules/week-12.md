@@ -4,7 +4,7 @@ weekNumber: 12
 days:
   - date: 2020-11-09
     events:
-      "**Lab 11**{: .label .label-lab } Lab 11":
+      "**Lab 10**{: .label .label-lab } Lab 10":
   - date: 2020-11-10
     events:
       "**Lecture 20**{: .label .label-lecture } Logistic Regression II, Classification":

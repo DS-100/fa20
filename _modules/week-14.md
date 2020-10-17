@@ -4,7 +4,7 @@ weekNumber: 14
 days:
   - date: 2020-11-23
     events:
-      "**Lab 13**{: .label .label-lab } Lab 13":
+      "**Lab 12**{: .label .label-lab } Lab 12":
   - date: 2020-11-24
     events:
       "**Lecture 24**{: .label .label-lecture } PCA":
