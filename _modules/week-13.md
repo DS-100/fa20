@@ -17,5 +17,5 @@ days:
       "**Lecture 23**{: .label .label-lecture } Dimensionality Reduction":
   - date: 2020-11-20
     events:
-      "**Project 2**{: .label .label-proj } Spam/Ham":
+      "N/A":
 ---

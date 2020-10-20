@@ -4,11 +4,12 @@ weekNumber: 9
 days:
   - date: 2020-10-19
     events:
-      "No Lab":
+      "N/A":
   - date: 2020-10-20
     events:
-      "**Lecture 14**{: .label .label-lecture } Feature Engineering":
+      "**Lecture 14**{: .label .label-lecture } [Feature Engineering](lecture/lec14) (QC due Oct. 26)":
         "[Ch. 14](https://www.textbook.ds100.org/ch/14/feature_engineering.html)"
+      "**Survey**{: .label .label-survey } [Mid-Semester Survey](https://docs.google.com/forms/d/e/1FAIpQLSfEpPXok9AP1xEz3Cf9poRgymPiqkBSpk8j2YA-2XlT4dxD0A/viewform) (due Oct. 26)":
   - date: 2020-10-21
     events:
       "**Discussion 8**{: .label .label-disc } Feature Engineering and Midterm Review":
