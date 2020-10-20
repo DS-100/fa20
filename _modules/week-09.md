@@ -15,7 +15,8 @@ days:
       "**Discussion 8**{: .label .label-disc } Feature Engineering and Midterm Review":
   - date: 2020-10-22
     events:
-      "**Lecture 15**{: .label .label-lecture } Variance":
+      "**Lecture 15**{: .label .label-lecture } Bias-Variance Tradeoff":
+        "[12.3](https://www.textbook.ds100.org/ch/12/prob_risk.html), [15.1-15.2](https:/www.textbook.ds100.org/ch/15/bias_risk.html)"
   - date: 2020-10-23
     events:
       "**Homework 6**{: .label .label-hw } Housing":
