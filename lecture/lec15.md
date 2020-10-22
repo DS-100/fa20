@@ -14,7 +14,7 @@ Content by Fernando Perez, Ani Adhikari, Suraj Rampure
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfo-QpRDqzf_3IUOYQ6jnuAo)
 - [Bias-Variance decomposition derivation](../../resources/assets/lectures/lec15/lec15-bias-variance-derivation.html)
 
-**Important:** The algebra behind the decomposition of model risk into observational variance, model variance, and bias, is not in the slides or video but is in the link above. You should read it **after** watching this lecture.
+**Important:** The algebra behind the decomposition of model risk into observational variance, model variance, and bias, is not in the slides or video but is in the link above. You should read it **after** watching this lecture. Also, you may want to review [Lecture 3](http://ds100.org/fa20/lecture/lec03) for a refresher on random variables.
 
 The Quick Check for this lecture is due **Monday, October 26th at 11:59PM.** A random one of the following Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 15" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check.
 
