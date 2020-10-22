@@ -15,8 +15,8 @@ days:
       "**Discussion 8**{: .label .label-disc } [Feature Engineering and Midterm Review](https://drive.google.com/file/d/1DnlltMCq2XVKngr0HG6bzlCoZcB9XsAQ/view?usp=sharing) [(video)](https://www.youtube.com/playlist?list=PLQCcNQgUcDfpSTFgrlPo0cUQhwQPHaB3q)":
   - date: 2020-10-22
     events:
-      "**Lecture 15**{: .label .label-lecture } Bias-Variance Tradeoff":
-        "[12.3](https://www.textbook.ds100.org/ch/12/prob_risk.html), [15.1-15.2](https:/www.textbook.ds100.org/ch/15/bias_risk.html)"
+      "**Lecture 15**{: .label .label-lecture } [Bias and Variance](lecture/lec15) (QC due Oct. 26)":
+        "[12.2-12.3](https://www.textbook.ds100.org/ch/12/prob_exp_var.html), [15.1-15.2](https:/www.textbook.ds100.org/ch/15/bias_risk.html)"
   - date: 2020-10-23
     events:
       "**Homework 6**{: .label .label-hw } Housing":
