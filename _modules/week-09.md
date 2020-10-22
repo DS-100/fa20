@@ -16,7 +16,7 @@ days:
   - date: 2020-10-22
     events:
       "**Lecture 15**{: .label .label-lecture } [Bias and Variance](lecture/lec15) (QC due Oct. 26)":
-        "[12.2-12.3](https://www.textbook.ds100.org/ch/12/prob_exp_var.html), [15.1-15.2](https:/www.textbook.ds100.org/ch/15/bias_risk.html)"
+        "[Ch. 12](https://www.textbook.ds100.org/ch/12/prob_exp_var.html), [15.1-15.2](https:/www.textbook.ds100.org/ch/15/bias_risk.html)"
   - date: 2020-10-23
     events:
       "**Homework 6**{: .label .label-hw } Housing":
