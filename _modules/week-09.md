@@ -19,5 +19,5 @@ days:
         "[Ch. 12](https://www.textbook.ds100.org/ch/12/prob_exp_var.html), [15.1-15.2](https:/www.textbook.ds100.org/ch/15/bias_risk.html)"
   - date: 2020-10-23
     events:
-      "**Homework 6**{: .label .label-hw } Housing":
+      "**Homework 6**{: .label .label-hw } [Housing](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=hw/hw6/) (due Nov. 5)":
 ---
