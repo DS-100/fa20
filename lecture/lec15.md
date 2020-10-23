@@ -6,7 +6,7 @@ nav_exclude: true
 
 # Lecture 15 – Bias and Variance
 
-Presented by Fernando Perez
+Presented by Fernando Perez and Ani Adhikari
 
 Content by Fernando Perez, Ani Adhikari, Suraj Rampure
 
