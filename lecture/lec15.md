@@ -12,7 +12,7 @@ Content by Fernando Perez, Ani Adhikari, Suraj Rampure
 
 - [slides](https://docs.google.com/presentation/d/15LDeDKNxpIa9j0_dHZr1F5AzrbVEUoM5OWOxgqYUKM0/edit?usp=sharing)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfo-QpRDqzf_3IUOYQ6jnuAo)
-- [Bias-Variance decomposition derivation](../../resources/assets/lectures/lec15/lec15-bias-variance-derivation.html)
+- [Bias-Variance decomposition derivation](../../resources/assets/lectures/lec15/lec15-bias-variance-derivation.html) ([raw](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lecture/lec15/))
 
 **Important:** The algebra behind the decomposition of model risk into observational variance, model variance, and bias, is not in the slides or video but is in the link above. You should read it **after** watching this lecture. Also, you may want to review [Lecture 3](http://ds100.org/fa20/lecture/lec03) for a refresher on random variables.
 
