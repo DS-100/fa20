@@ -12,7 +12,7 @@ Content by Joseph Gonzalez, Suraj Rampure, Paul Shao
 
 - [slides](https://docs.google.com/presentation/d/1MaQJxLvnb7oQZAWaEbBL_1ebNNvPiZHgHPB_QnWtVz8/edit?usp=sharing)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfov87Pclq27yt7qrgzJigz3)
-- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/su20&subPath=lecture/lec16/)
+- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lecture/lec16/)
 - code HTML: [Part 1](../../resources/assets/lectures/lec16/lec16-part1-cv.html), [Part 2](../../resources/assets/lectures/lec16/lec16-part2-regularization.html)
 
 **Important:** Read this before proceeding with the lectures, as it details what materials you should focus on. (This is also largely recapped in Video 16.1.)
@@ -29,6 +29,8 @@ Sections 16.5 and 16.6 discuss regularization.
 There are also three **supplementary** videos accompanying this lecture. They don't introduce any new material, but may still be helpful for your understanding. They are listed as supplementary and not required since the runtime of this lecture is already quite long. They do not have accompanying Quick Checks for this reason.
 - 16.7 and 16.8 walk through implementing ridge and LASSO regression in a notebook. These videos are helpful in explaining how regularization and cross-validation are used in practice. These videos again use `Pipeline`, which is not in scope. Code is in "Part 2".
 - 16.9 is another **supplementary** video, created by Paul Shao (a TA for Data 100 in Spring 2020). It gives a great high-level overview of both the bias-variance tradeoff and regularization.
+
+The Quick Check for this lecture is due **Monday, November 2nd at 11:59PM.** A random one of the following Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 16" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check.
 
 
 <table>

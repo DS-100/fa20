@@ -7,7 +7,7 @@ days:
       "**Lab 8**{: .label .label-lab } [Multiple Linear Regression and Feature Engineering](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lab/lab08) (due Oct. 26)":
   - date: 2020-10-27
     events:
-      "**Lecture 16**{: .label .label-lecture } Regularization & Cross-Validation":
+      "**Lecture 16**{: .label .label-lecture } [Cross-Validation and Regularization](lecture/lec16)":
         "[Ch. 16](https://www.textbook.ds100.org/ch/16/reg_intro.html), [Ch. 15.3](https://www.textbook.ds100.org/ch/15/bias_cv.html)"
   - date: 2020-10-28
     events:
