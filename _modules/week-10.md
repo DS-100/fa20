@@ -11,7 +11,7 @@ days:
         "[Ch. 16](https://www.textbook.ds100.org/ch/16/reg_intro.html), [Ch. 15.3](https://www.textbook.ds100.org/ch/15/bias_cv.html)"
   - date: 2020-10-28
     events:
-      "**Discussion 9**{: .label .label-disc }  [Bias & Variance, Cross-Validation, & Regularization](https://drive.google.com/file/d/1ZCTI0ZVs5mw9SkI5gRTH1wRs-nJsBoe4/view?usp=sharing) [(video)](https://www.youtube.com/playlist?list=PLQCcNQgUcDfpb8-qA034D4LiH8Lfs0FAB)
+      "**Discussion 9**{: .label .label-disc }  [Bias & Variance, Cross-Validation, & Regularization](https://drive.google.com/file/d/1ZCTI0ZVs5mw9SkI5gRTH1wRs-nJsBoe4/view?usp=sharing) [(video)](https://www.youtube.com/playlist?list=PLQCcNQgUcDfpb8-qA034D4LiH8Lfs0FAB)":
   - date: 2020-10-29
     events:
       "**Lecture 17**{: .label .label-lecture } Gradient Descent":
