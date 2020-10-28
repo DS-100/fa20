@@ -70,7 +70,7 @@ The Quick Check for this lecture is due **Monday, November 2nd at 11:59PM.** A r
 <tr>
 <td><strong>16.5</strong> <br>An overview of regularization.</td>
 <td><iframe width="300" height="300" height src="https://youtube.com/embed/NqKtsZpHmRY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
-<td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfEckJSRCSCkVz_JxGhrf2MtcctLWcT9NBMQFtF3GGcRIRvVw/viewform" target="\_blank">14.5</a></td>
+<td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfEckJSRCSCkVz_JxGhrf2MtcctLWcT9NBMQFtF3GGcRIRvVw/viewform" target="\_blank">16.5</a></td>
 </tr>
 <tr>
 <td><strong>16.6</strong> <br>Ridge regression and LASSO regression.</td>
