@@ -4,7 +4,7 @@ weekNumber: 11
 days:
   - date: 2020-11-02
     events:
-      "**Lab 9**{: .label .label-lab } Lab 9":
+      "**Lab 9**{: .label .label-lab } [Feature Engineering & Cross-Validation](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lab/lab09/) (due Nov. 2)":
   - date: 2020-11-03
     events:
       "N/A (Election Day)":
