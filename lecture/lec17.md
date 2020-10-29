@@ -34,7 +34,7 @@ The Quick Check for this lecture is due **Monday, November 2nd at 11:59PM.** A r
 <tbody>
 <tr>
 <td><strong>17.1</strong> <br>Gradient descent in one dimension. Convexity.</td>
-<td><iframe width="300" height="300" height src="https://youtube.com/embed/ZWwxKzBytPM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="300" height="300" height src="https://youtube.com/embed/gQq93hzecHM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://docs.google.com/forms/d/e/1FAIpQLScLwzrhNBj1Io9zUdBeteXMaPjz7jL5LC2rKnY8CoehyyImtg/viewform" target="\_blank">17.1</a></td>
 </tr>
 <tr>
