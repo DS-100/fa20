@@ -18,5 +18,5 @@ days:
         "[Ch. 11](https://www.textbook.ds100.org/ch/11/gradient_descent.html)"
   - date: 2020-10-30
     events:
-      "TBD":
+      "N/A":
 ---
