@@ -10,7 +10,7 @@ days:
       "N/A (Election Day)":
   - date: 2020-11-04
     events:
-      "**Discussion 10**{: .label .label-disc } Discussion 10":
+      "**Discussion 10**{: .label .label-disc } [Gradient Descent](https://drive.google.com/file/d/1GFDjhDqvh4TaN9f84XZ4Mn0IMNRVS7x-/view?usp=sharing) [(video)](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqNN9kV94osELsBBCC8VvDZ) [(solutions)](https://drive.google.com/file/d/13S6NkwscVxM-rA_0_c6yQBlFZ6tPlx8t/view?usp=sharing)":
   - date: 2020-11-05
     events:
       "**Lecture 18**{: .label .label-lecture } Logistic Regression I":
