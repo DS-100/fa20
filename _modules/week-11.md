@@ -17,5 +17,5 @@ days:
         "[Ch. 17.1-17.3](https://www.textbook.ds100.org/ch/17/classification_prob.html)"
   - date: 2020-11-06
     events:
-      "**Homework 7**{: .label .label-hw } Gradient Descent and Logistic Regression":
+      "**Homework 7**{: .label .label-hw } [Gradient Descent and Logistic Regression](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=hw/hw7/) (due Nov. 12)":
 ---
