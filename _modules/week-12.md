@@ -4,7 +4,7 @@ weekNumber: 12
 days:
   - date: 2020-11-09
     events:
-      "**Lab 10**{: .label .label-lab } [Logistic Regression](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lab/lab10) (due Nov 9.)":
+      "**Lab 10**{: .label .label-lab } [Logistic Regression](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lab/lab10) (due Nov. 9)":
   - date: 2020-11-10
     events:
       "**Lecture 19**{: .label .label-lecture } Logistic Regression II, Classification":
@@ -17,5 +17,5 @@ days:
       "**Lecture 20**{: .label .label-lecture } Decision Trees":
   - date: 2020-11-13
     events:
-      "**Project 2**{: .label .label-proj } Spam/Ham":
+      "**Project 2**{: .label .label-proj } Spam/Ham (due Nov. 30)":
 ---
