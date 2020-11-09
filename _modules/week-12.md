@@ -5,8 +5,6 @@ days:
   - date: 2020-11-09
     events:
       "**Lab 10**{: .label .label-lab } [Logistic Regression](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lab/lab10) (due Nov. 9)":
-  - date: 2020-11-09
-    events:
       "**Graduate Project**{: .label .label-proj } [Graduate Project](gradproject)":
   - date: 2020-11-10
     events:
