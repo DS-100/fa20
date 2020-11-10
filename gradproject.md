@@ -19,7 +19,7 @@ The purpose of the project is to give students experience in both open-ended dat
 
 You will receive feedback from peer grading before the final deadline, and you are expected to incorporate the feedback into the final report and presentation. You will be graded on both the final report and presentation, as well as [deliverables](#deliverables) before the submission of the final reports, including your peer reviews. 
 
-**Teamwork**: You can **work alone** or with **one other student** in the class. If you are interested in working with others, we will have a Piazza post for teammate search. Everyone in the same group will receive the same grade. 
+**Teamwork**: You can work alone or in a group with at most two other students. If you are interested in working with others, we will have a Piazza post for teammate search. Everyone in the same group will receive the same grade. The group size will be taken into consideration for grading.
 
 
 ## <a name="multiple_datasets"></a>Option 1: Multiple Datasets
