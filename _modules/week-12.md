@@ -8,7 +8,7 @@ days:
       "**Graduate Project**{: .label .label-proj } [Graduate Project](gradproject)":
   - date: 2020-11-10
     events:
-      "**Lecture 19**{: .label .label-lecture } Logistic Regression II, Classification":
+      "**Lecture 19**{: .label .label-lecture } [Logistic Regression II, Classification](lecture/lec19) (QC due Nov. 16)":
         "[Ch. 17.4-17.7](https://www.textbook.ds100.org/ch/17/classification_log_reg.html)"
   - date: 2020-11-11
     events:
