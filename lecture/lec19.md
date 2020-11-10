@@ -12,7 +12,8 @@ Content by Suraj Rampure, Fernando Perez, Josh Hug, Joseph Gonzalez, Ani Adhikar
 
 - [slides](https://docs.google.com/presentation/d/1DjTv0J5fH4H8QRHV-VsEB67Bb4Uc4RduimVXizySVf4/edit?usp=sharing)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfoGE4UR-p96SPlUMsfDHp-h)
-- code and code HTML coming soon
+- [code](https://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lecture/lec19/)
+- [code HTML](../../resources/assets/lectures/lec19/lec19.html)
 - (supplementary) [video](https://www.youtube.com/watch?v=ErfnhcEV1O8) on cross-entropy loss and KL divergence
 
 The Quick Check for this lecture is due **Monday, November 16th at 11:59PM.** A random one of the following Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 18" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check.
