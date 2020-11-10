@@ -49,21 +49,21 @@ The Quick Check for this lecture is due **Monday, November 16th at 11:59PM.** A 
 </tr>
 <tr>
 <td><strong>19.4</strong> <br>Exploring how threshold impacts accuracy, precision, and recall. Precision-recall curves. ROC curves. AUC.</td>
-<td><iframe width="300" height="500" height src="https://youtube.com/embed/Ytsrhj5-lsk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="300" height="500" height src="https://youtube.com/embed/ILI4VmAcf9I" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://docs.google.com/forms/d/e/1FAIpQLScRHYdQlAJZwWX9aFi5KTLAXvH8Pp4yXeNqMDfJ3yxM9Dh1Ow/viewform" target="\_blank">19.4</a></td>
 </tr>
 <tr>
 <td><strong>19.5</strong> <br>Exploring the decision boundaries that result from a logistic regression classifier, and their relationship to the model's parameters.</td>
-<td><iframe width="300" height="300" height src="https://youtube.com/embed/vaQBhcXmOMI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="300" height="300" height src="https://youtube.com/embed/TVK7aPI_jZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeFmXUJrHTRbwGKKrDE1EAilA2BHPjbX_u-oM5bwSTEa6Ux9g/viewform" target="\_blank">19.5</a></td>
 </tr>
 <tr>
 <td><strong>19.6</strong> <br>Linear separability. Why we sometimes need regularization for logistic regression.</td>
-<td><iframe width="300" height="300" height src="https://youtube.com/embed/8aG81hQxUNI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="300" height="300" height src="https://youtube.com/embed/DprPIxFVIcc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSevvpw9f56bi06hXrFh_YNbJi-5koBcy5F3mcJUEI4FIle-RQ/viewform" target="\_blank">19.6</a></td>
 </tr>
 <tr>
 <td><strong>19.7</strong> <br>Summary. Brief introduction to multiclass classification.</td>
-<td><iframe width="300" height="300" height src="https://youtube.com/embed/Sh6QTQt2kfQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
+<td><iframe width="300" height="300" height src="https://youtube.com/embed/Sp2eAPFb2DM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="TODO" target="\_blank">N/A</a></td>
 </tr>
