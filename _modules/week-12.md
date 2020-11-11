@@ -12,7 +12,7 @@ days:
         "[Ch. 17.4-17.7](https://www.textbook.ds100.org/ch/17/classification_log_reg.html)"
   - date: 2020-11-11
     events:
-      "**Discussion 11**{: .label .label-disc } Discussion 11":
+      "**Discussion 11**{: .label .label-disc } [Logistic Regression](https://drive.google.com/file/d/1YwDjQzMpvOi8obPbk8ZA78Uyd1s0z94v/view?usp=sharing) [(video)](https://www.youtube.com/playlist?list=PLQCcNQgUcDfoQWEJClkvwYeq6q1FDryhP) [(solutions)](https://drive.google.com/file/d/1HGVlNCpQa81Trnl1nUPt-HHPIg6AFLba/view?usp=sharing)":
   - date: 2020-11-12
     events:
       "**Lecture 20**{: .label .label-lecture } Decision Trees":
