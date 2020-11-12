@@ -16,7 +16,7 @@ Content by Suraj Rampure, Fernando Perez, Josh Hug, Joseph Gonzalez, Ani Adhikar
 - [code HTML](../../resources/assets/lectures/lec19/lec19.html)
 - (supplementary) [video](https://www.youtube.com/watch?v=ErfnhcEV1O8) on cross-entropy loss and KL divergence
 
-The Quick Check for this lecture is due **Monday, November 16th at 11:59PM.** A random one of the following Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 18" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check.
+The Quick Check for this lecture is due **Monday, November 16th at 11:59PM.** A random one of the following Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 19" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check.
 
 <table>
 <colgroup>
