@@ -15,7 +15,7 @@ days:
       "**Discussion 11**{: .label .label-disc } [Logistic Regression](https://drive.google.com/file/d/1YwDjQzMpvOi8obPbk8ZA78Uyd1s0z94v/view?usp=sharing) [(video)](https://www.youtube.com/playlist?list=PLQCcNQgUcDfoQWEJClkvwYeq6q1FDryhP) [(solutions)](https://drive.google.com/file/d/1HGVlNCpQa81Trnl1nUPt-HHPIg6AFLba/view?usp=sharing)":
   - date: 2020-11-12
     events:
-      "**Lecture 20**{: .label .label-lecture } Decision Trees":
+      "**Lecture 20**{: .label .label-lecture } [Decision Trees](lecture/lec20) (QC due Nov. 16)":
   - date: 2020-11-13
     events:
       "**Project 2**{: .label .label-proj } Spam/Ham (due Nov. 30)":
