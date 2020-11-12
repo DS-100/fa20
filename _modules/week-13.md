@@ -4,7 +4,7 @@ weekNumber: 13
 days:
   - date: 2020-11-16
     events:
-      "**Lab 11**{: .label .label-lab } Lab 11 (due Nov. 16)":
+      "**Lab 11**{: .label .label-lab } [Decision Trees and Random Forests](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lab/lab11) (due Nov. 16)":
   - date: 2020-11-17
     events:
       "**Lecture 21**{: .label .label-lecture } Inference for Modeling":
