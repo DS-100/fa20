@@ -18,5 +18,5 @@ days:
       "**Lecture 20**{: .label .label-lecture } [Decision Trees](lecture/lec20) (QC due Nov. 16)":
   - date: 2020-11-13
     events:
-      "**Project 2**{: .label .label-proj } Spam/Ham (due Nov. 30)":
+      "**Project 2**{: .label .label-proj } [Spam/Ham](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=proj/proj2) (due Nov. 30)":
 ---
