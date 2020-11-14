@@ -166,7 +166,7 @@ Use the provided starter notebooks to complete the following aspects of the proj
 3. Classifier training and performance assessment.
 4. Neural networks (Extra credit).
 
-Note: We will run the notebooks in that order when grading, so please account for that. Additionally, transferring data between notebooks is part of the project, and thus copying and pasting final data frames will result in deductions.
+Note: We will run the notebooks in that order when grading, so please account for that.
 
 #### Project narrative. 
 This Jupyter Notebook should summarize your workflow and what you have learned. It should be structured as a research paper and include a title, list of authors, abstract, introduction, description of data, description of methods, summary of results, and discussion. Make sure to number figures and tables and include informative captions. Specifically, you should address the following in the narrative.
