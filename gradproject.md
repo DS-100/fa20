@@ -199,7 +199,7 @@ Please submit everything as a zip file to Gradescope. The directory structure in
 | Deliverable | Deadline | % Grade (out of 100%) |
 | -------- | -------- | -------- |
 | [Project Signup](#signup)     | November 12th, 11:59 pm PT | 5% (full credit for submitting on time) |
-| [Proposal](#proposal) | November 17th, 11:59 pm PT | 5% (full credit for submitting on time) |
+| [Proposal](#proposal) | November ~~17th~~ 18th, 11:59 pm PT | 5% (full credit for submitting on time) |
 | [Report draft for peer review](#draft) | November 24th, 11:59 pm PT | 5% (full credit for submitting on time) |
 | [Peer reviews](#review) | December 1st, 11:59 pm PT | 10% (rubric TBD)|
 | [Final report and presentation](#final) | December 9th, 11:59 pm PT| 75% (rubric TBD)|
@@ -214,7 +214,7 @@ You are encouraged but not required to explore all datasets provided before deci
 
 This accounts for 5% (out of 100%) of your project grade. You will receive full credit for submitting the signup form by the deadline.
 
-### <a name="proposal"></a>Research questions and proposed methodology (Due 11:59pm PT, November 17th)
+### <a name="proposal"></a>Research questions and proposed methodology (Due 11:59pm PT, November ~~17th~~ 18th)
 
 A one-page PDF document addressing the following questions:
 * What are the research questions you are tackling in your project? What are some existing works, if any, related to your research questions? If you selected Option 2, talk about what questions you'd like to explore for the image dataset.
