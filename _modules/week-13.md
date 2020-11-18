@@ -11,7 +11,7 @@ days:
         "[Ch. 18.1, 18.3](https://www.textbook.ds100.org/ch/18/hyp_intro.html)"
   - date: 2020-11-18
     events:
-      "**Discussion 12**{: .label .label-disc } Discussion 12":
+      "**Discussion 12**{: .label .label-disc } [Decision Trees & Inference](https://drive.google.com/file/d/1v8zaQI2F0oLxYncgi_NqinCpw8BEigW2/view?usp=sharing) [(video)](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqxl-ONDDGhH0l5oXj9lheR)":
   - date: 2020-11-19
     events:
       "**Lecture 22**{: .label .label-lecture } Dimensionality Reduction and PCA":
