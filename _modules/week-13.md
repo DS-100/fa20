@@ -14,7 +14,7 @@ days:
       "**Discussion 12**{: .label .label-disc } [Decision Trees & Inference](https://drive.google.com/file/d/1v8zaQI2F0oLxYncgi_NqinCpw8BEigW2/view?usp=sharing) [(video)](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqxl-ONDDGhH0l5oXj9lheR)":
   - date: 2020-11-19
     events:
-      "**Lecture 22**{: .label .label-lecture } Dimensionality Reduction and PCA":
+      "**Lecture 22**{: .label .label-lecture } [Principal Components Analysis](lecture/lec22) (QC due Nov. 23)":
   - date: 2020-11-20
     events:
       "**Homework 8**{: .label .label-hw } PCA (due Dec. 3)":
