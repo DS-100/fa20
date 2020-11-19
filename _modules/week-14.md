@@ -4,7 +4,7 @@ weekNumber: 14
 days:
   - date: 2020-11-23
     events:
-      "**Lab 12**{: .label .label-lab } Lab 12 (due Nov. 23)":
+      "**Lab 12**{: .label .label-lab } [Principal Component Analysis](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lab/lab12) (due Nov. 23)":
       "**Live Session**{: .label .label-live } AMA with Professors (9-10AM PST)":
   - date: 2020-11-24
     events:
