@@ -17,5 +17,5 @@ days:
       "**Lecture 22**{: .label .label-lecture } [Principal Components Analysis](lecture/lec22) (QC due Nov. 23)":
   - date: 2020-11-20
     events:
-      "**Homework 8**{: .label .label-hw } PCA (due Dec. 3)":
+      "**Homework 8**{: .label .label-hw } [PCA](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=hw/hw8/) (due Dec. 3)":
 ---
