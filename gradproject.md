@@ -232,7 +232,9 @@ An initial draft of your report to be shared with other groups in the class for 
 
 Follow the instructions in the Report Format and Submission section of the project option that you chose to prepare the zip file to be submitted via Gradescope.
 
-This accounts for 5% (out of 100%) of your project grade. You will receive full credit for submitting the report by the deadline.
+This accounts for 5% (out of 100%) of your project grade. You will receive full credit for submitting the report by the deadline. Late reports might not be able to participate in peer review, and peer feedback will be taken into consideration for the final report grade.
+
+**Make sure to anonymize your report for this submission.** That means the names of the group members should not be shown anywhere in the report notebooks. 
 
 ### <a name="review"></a>Peer Review Submission (Due 11:59pm PT, December 1st)
 Each group will peer grade two to three (TBD) other projects. For each project reviewed, the review should include the following components:
