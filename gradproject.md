@@ -188,8 +188,7 @@ Note 2: You are not allowed to use a neural network for your final classifier.
 
 **The accuracy of your final classifier on the test set will count for 25% of your grade on the final report.**
 
-Please submit everything as a zip file to Gradescope. The directory structure in the zip file should be the same as the one in `~/shared/grad_proj/computer_vision`.
-
+Please submit the notebooks only as a zip file to Gradescope. Use relative paths instead of absolute paths in your notebooks to faciliate notebook rerun. 
 
 
 ## <a name="deliverables"></a>Deliverable Deadlines
