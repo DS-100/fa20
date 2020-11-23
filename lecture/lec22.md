@@ -17,6 +17,8 @@ Content by Josh Hug, John DeNero, Sam Lau, and Suraj Rampure
 - [Summer 2020 notes on PCA](http://www.ds100.org/su20/resources/assets/lectures/live07/live7.pdf)
 - [(Optional) PCA tutorial](https://arxiv.org/pdf/1404.1100.pdf)
 
+The Quick Check for this lecture is due **Monday, November 23rd at 11:59PM.** A random one of the following Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 22" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check.
+
 
 <table>
 <colgroup>
