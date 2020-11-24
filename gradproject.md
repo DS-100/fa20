@@ -106,7 +106,7 @@ The narrative notebook should include figures sparingly to support specific clai
 
 Tip: if you need to write a large amount of $\LaTeX$, you may want to use the `%%latex` cell magic.
 
-Please submit everything as a zip file to Gradescope. Please make sure the folder in the zip file has the following structure:
+Please submit everything as a zip file to submission link TBA. Please make sure the folder in the zip file has the following structure:
 
 ```
 studentIDs/
@@ -182,13 +182,13 @@ This Jupyter Notebook should summarize your workflow and what you have learned. 
 
 The narrative notebook should include figures sparingly to support specific claims. It can include runnable components, but it should not have large amounts of code. The length of the report should be 8+/-2 pages when it is printed as a PDF, excluding figures and code.
 
-3. Image class predictions for test set. Run the classifier of your choice on the test data of 716 images and generate a CSV file of the classification for each image. Submit this CSV file on Gradescope. It is your responsibility to follow the order of the files when creating the CSV (predict validation 1 before validation 2...).
+3. Image class predictions for test set. Run the classifier of your choice on the test data of 716 images and generate a CSV file of the classification for each image. Submit this CSV file on Gradescope (only needed for the final report, not peer review). It is your responsibility to follow the order of the files when creating the CSV (predict validation 1 before validation 2...).
 Note 1: You are not to use the test data in any way for training or creating your classifer.
 Note 2: You are not allowed to use a neural network for your final classifier.
 
 **The accuracy of your final classifier on the test set will count for 25% of your grade on the final report.**
 
-Please submit the notebooks only as a zip file to Gradescope. Use relative paths instead of absolute paths in your notebooks to faciliate notebook rerun. 
+Please submit the notebooks only as a zip file to submission link TBA. Use relative paths instead of absolute paths in your notebooks to faciliate notebook rerun. 
 
 
 ## <a name="deliverables"></a>Deliverable Deadlines
@@ -229,9 +229,11 @@ You will submit the proposal via Gradescope. The proposal accounts for 5% (out o
 ### <a name="draft"></a>Report submission for peer review (Due 11:59pm PT, November 24th)
 An initial draft of your report to be shared with other groups in the class for peer review. You will not be graded on the quality of this draft, but feedback from your peers may be taken into consideration for the final grade.
 
-Follow the instructions in the Report Format and Submission section of the project option that you chose to prepare the zip file to be submitted via Gradescope.
+Follow the instructions in the Report Format and Submission section of the project option that you chose to prepare the zip file to be submitted via this [Google Form](https://forms.gle/Bjtak4ZakBw24LJKA).
 
 This accounts for 5% (out of 100%) of your project grade. You will receive full credit for submitting the report by the deadline. Late reports might not be able to participate in peer review, and peer feedback will be taken into consideration for the final report grade.
+
+**Note for Option 2**: do NOT include the prediction CSV in the zip file. You are welcome to redact certain information in the peer review version to prevent plagiadrism.
 
 **Make sure to anonymize your report for this submission.** That means the names of the group members should not be shown anywhere in the report notebooks. 
 
