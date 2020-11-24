@@ -233,7 +233,7 @@ Follow the instructions in the Report Format and Submission section of the proje
 
 This accounts for 5% (out of 100%) of your project grade. You will receive full credit for submitting the report by the deadline. Late reports might not be able to participate in peer review, and peer feedback will be taken into consideration for the final report grade.
 
-**Note for Option 2**: do NOT include the prediction CSV in the zip file. You are welcome to redact certain information in the peer review version to prevent plagiadrism.
+**Note for Option 2**: do NOT include the prediction CSV in the zip file. You are welcome to redact certain information in the peer review version to prevent plagiarism.
 
 **Make sure to anonymize your report for this submission.** That means the names of the group members should not be shown anywhere in the report notebooks. 
 
