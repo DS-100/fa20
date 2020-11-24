@@ -42,7 +42,7 @@ The Quick Check for this lecture is due **Monday, November 30th at 11:59PM.** A 
 <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfgd5E_2_BPxqF68sfS7sXwWrtKTLgupraboWdaWz3hlnm2GA/viewform" target="\_blank">23.2</a></td>
 </tr>
 <tr>
-<td><strong>23.3</strong> <br>Loss functions for K-Means. Inertia and distortion. Optimizing distortion.</td>
+<td><strong>23.3</strong> <br>Loss functions for K-Means. Inertia and distortion. Optimizing inertia.</td>
 <td><iframe width="300" height="300" height src="https://youtube.com/embed/YQ2wFOnkelg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></td>
 <td><a href="https://docs.google.com/forms/d/e/1FAIpQLScTsXVkdwzwySNlf-Ta0_9sc1xtRHCBPtKOJrXZHkac4x6iUA/viewform" target="\_blank">23.3</a></td>
 </tr>
