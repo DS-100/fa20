@@ -8,7 +8,7 @@ days:
       "**Live Session**{: .label .label-live } AMA with Professors (9-10AM PST)":
   - date: 2020-11-24
     events:
-      "**Lecture 23**{: .label .label-lecture } Clustering":
+      "**Lecture 23**{: .label .label-lecture } [Clustering](lecture/lec23) (QC due Nov. 30)":
   - date: 2020-11-25
     events:
       "N/A (Thanksgiving)":
