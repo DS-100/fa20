@@ -8,7 +8,7 @@ nav_exclude: true
 
 Presented by Anthony D. Joseph
 
-Content by Josh Hug, John DeNero, Sam Lau, and Suraj Rampure
+Content by Josh Hug
 
 - [slides](https://docs.google.com/presentation/d/19TdgyT7vnnz6mR0-yftJH6iVpplQeTnohobvAr0dOeY/edit?usp=sharing)
 - [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqgm0VJbNx-Gqp4bpQ8tzwo)
