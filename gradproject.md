@@ -238,14 +238,14 @@ This accounts for 5% (out of 100%) of your project grade. You will receive full 
 **Make sure to anonymize your report for this submission.** That means the names of the group members should not be shown anywhere in the report notebooks. 
 
 ### <a name="review"></a>Peer Review Submission (Due 11:59pm PT, December 1st)
-Each group will peer grade two to three (TBD) other projects. For each project reviewed, the review should include the following components:
-* A score between 1 to 5 (5 is the best).
-* A summary of the report & rationale for the score
-* 3 strong points 
-* 3 weak points
-* Detailed feedback (>= 3 suggestions for improvement)
+Each group will peer grade (2 * group size) other projects. For each project reviewed, the review should include the following components:
+1. A score between 1 to 5 (5 is the best).
+2. A summary of the report & rationale for the score
+3. 3 strong points 
+4. 3 weak points
+5. Detailed feedback (>= 3 suggestions for improvement)
 
-This accounts for 10% (out of 100%) of your project grade. You will be graded on the quality of your reviews, and your peers will take your reviews into consideration when preparing their reports for final submission. 
+This accounts for 10% (out of 100%) of your project grade. You will be graded on the quality of your reviews using [the peer review rubric](https://docs.google.com/document/d/1-0QIm7pAKoeYbA8p3h3LmN69ROpiMD4pXXL3HpOKlkU/edit?usp=sharing), and your peers will take your reviews into consideration when preparing their reports for the final submission.
 
 Your reviews will be disseminated to your peers shortly after the deadline, so it is important that your reviews are submitted on time. You will submit your reviews via Gradescope.
 
