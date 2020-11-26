@@ -247,7 +247,7 @@ Each group will peer grade (2 * group size) other projects. For each project rev
 
 This accounts for 10% (out of 100%) of your project grade. You will be graded on the quality of your reviews using [the peer review rubric](https://docs.google.com/document/d/1-0QIm7pAKoeYbA8p3h3LmN69ROpiMD4pXXL3HpOKlkU/edit?usp=sharing), and your peers will take your reviews into consideration when preparing their reports for the final submission.
 
-Your reviews will be disseminated to your peers shortly after the deadline, so it is important that your reviews are submitted on time. You will submit your reviews via Gradescope.
+Your reviews will be disseminated to your peers shortly after the deadline, so it is important that your reviews are submitted on time. You will submit your reviews via this [Google Form](https://forms.gle/oquXy6kbFqoJo8WT8).
 
 ### <a name="final"></a>Final report & presentation submission (Due 11:59pm PT, December 9th)
 The final submission contains two parts:
