@@ -116,7 +116,7 @@ studentIDs/
     figures/[figures included in the narrative notebook]
 ```
 
-For groups of size two, please use `studentID1_studentID2` as the name for the top-level directory. The analysis notebooks must be runnable within this directory structure. If the narrative notebook includes any figures that are created in the analysis notebooks, the figures should be saved to `figures/` by the analysis notebooks and imported from `figures/` by the narrative notebook.
+For groups with multiple members, please use student IDs joined by `_` as the name for the top-level directory. The analysis notebooks must be runnable within this directory structure. If the narrative notebook includes any figures that are created in the analysis notebooks, the figures should be saved to `figures/` by the analysis notebooks and imported from `figures/` by the narrative notebook.
 
 
 ## <a name="image_classification"></a>Option 2: Image Classification
@@ -188,8 +188,7 @@ Note 2: You are not allowed to use a neural network for your final classifier.
 
 **The accuracy of your final classifier on the test set will count for 25% of your grade on the final report.**
 
-Please submit the notebooks only as a zip file to submission link TBA. Use relative paths instead of absolute paths in your notebooks to faciliate notebook rerun. 
-
+Please submit the notebooks only as a zip file to submission link TBA. Use relative paths instead of absolute paths in your notebooks to faciliate notebook rerun. For groups with multiple members, please use student IDs joined by `_` as the name for the top-level directory.
 
 ## <a name="deliverables"></a>Deliverable Deadlines
 
@@ -200,7 +199,7 @@ Please submit the notebooks only as a zip file to submission link TBA. Use relat
 | [Project Signup](#signup)     | November 12th, 11:59 pm PT | 5% (full credit for submitting on time) |
 | [Proposal](#proposal) | November ~~17th~~ 18th, 11:59 pm PT | 5% (full credit for submitting on time) |
 | [Report draft for peer review](#draft) | November 24th, 11:59 pm PT | 5% (full credit for submitting on time) |
-| [Peer reviews](#review) | December 1st, 11:59 pm PT | 10% (rubric TBD)|
+| [Peer reviews](#review) | December 1st, 11:59 pm PT | 10% ([peer review rubric](https://docs.google.com/document/d/1-0QIm7pAKoeYbA8p3h3LmN69ROpiMD4pXXL3HpOKlkU/edit?usp=sharing))|
 | [Final report and presentation](#final) | December 9th, 11:59 pm PT| 75% (rubric TBD)|
 
 ### <a name="signup"></a>Datasets selection and group signup (Due 11:59pm PT, November 12th)
@@ -245,7 +244,7 @@ Each group will peer grade (2 * group size) other projects. For each project rev
 4. 3 weak points
 5. Detailed feedback (>= 3 suggestions for improvement)
 
-This accounts for 10% (out of 100%) of your project grade. You will be graded on the quality of your reviews using [the peer review rubric](https://docs.google.com/document/d/1-0QIm7pAKoeYbA8p3h3LmN69ROpiMD4pXXL3HpOKlkU/edit?usp=sharing), and your peers will take your reviews into consideration when preparing their reports for the final submission.
+This accounts for 10% (out of 100%) of your project grade. You will be graded on the quality of your reviews using the [peer review rubric](https://docs.google.com/document/d/1-0QIm7pAKoeYbA8p3h3LmN69ROpiMD4pXXL3HpOKlkU/edit?usp=sharing), and your peers will take your reviews into consideration when preparing their reports for the final submission.
 
 Your reviews will be disseminated to your peers shortly after the deadline, so it is important that your reviews are submitted on time. You will submit your reviews via this [Google Form](https://forms.gle/oquXy6kbFqoJo8WT8).
 
