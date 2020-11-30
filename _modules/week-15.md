@@ -4,7 +4,7 @@ weekNumber: 15
 days:
   - date: 2020-11-30
     events:
-      "**Lab 13**{: .label .label-lab } Lab 13 (due TBA)":
+      "**Lab 13**{: .label .label-lab } [Using the Bootstrap for Estimation](http://data100.datahub.berkeley.edu/hub/user-redirect/git-sync?repo=https://github.com/DS-100/fa20&subPath=lab/lab13/) (due Dec. 7)":
   - date: 2020-12-01
     events:
       "**Lecture 24**{: .label .label-lecture } Big Data":
