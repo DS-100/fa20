@@ -11,7 +11,7 @@ Presented by Anthony D. Joseph
 Content by Anthony D. Joseph, Joseph Gonzalez, Josh Hug
 
 - [slides](https://docs.google.com/presentation/d/1VcV1rAAdyo1vzJfSvAw7pC8md2GB0JY-vPiDM9P5_gY/edit?usp=sharing)
-- [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqgm0VJbNx-Gqp4bpQ8tzwo)
+- [video playlist](https://www.youtube.com/playlist?list=PLQCcNQgUcDfoiQqSPgs2d_7g4J2w3rucq)
 
 The Quick Check for this lecture is due **Monday, December 7th at 11:59PM.** A random one of the following Google Forms will give you an alphanumeric code once you submit; you should take this code and enter it into the "Lecture 24" question in the "Quick Check Codes" assignment on Gradescope to get credit for submitting this Quick Check.
 
