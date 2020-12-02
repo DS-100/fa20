@@ -88,7 +88,7 @@ The project submission should include the following two components.
 1. **Analysis Notebooks**. The Jupyter Notebook(s) containing all the analyses that you performed on the datasets to support your claims in the narrative notebook. Make sure that all references to datasets are done as `data/[path to data files]`. You can copy the datasets from `~/shared/grad_proj/multiple_datasets` into `data/` at the top-level directory for your project on DataHub to do this.
 2. **Narrative Notebook**. This is a single Jupyter Notebook that summarizes your workflow and what you have learned. It should be structured as a research paper and include a title, list of authors, abstract, introduction, description of data, description of methods, summary of results, and discussion. Make sure to number figures and tables and include informative captions. 
 
-**UPDATE**: you can now replace the narrative notebook, and only the narrative notebook, with a PDF compiled using LaTeX, provided that the provenance of the figures are clearly labeled in the main narrative, and the figures can be reproduced by running the analysis notebooks
+**UPDATE**: you can now replace the narrative notebook, and only the narrative notebook, with a PDF compiled using LaTeX, provided that the provenance of the figures is clearly labeled in the main narrative, and the figures can be reproduced by running the analysis notebooks
 
 Specifically, you should address the following in the narrative:
 
@@ -175,7 +175,7 @@ Note: We will run the notebooks in that order when grading, so please account fo
 #### Project narrative. 
 This Jupyter Notebook should summarize your workflow and what you have learned. It should be structured as a research paper and include a title, list of authors, abstract, introduction, description of data, description of methods, summary of results, and discussion. Make sure to number figures and tables and include informative captions. 
 
-**UPDATE**: you can now replace the narrative notebook, and only the narrative notebook, with a PDF compiled using LaTeX, provided that the provenance of the figures are clearly labeled in the main narrative, and the figures can be reproduced by running the analysis notebooks
+**UPDATE**: you can now replace the narrative notebook, and only the narrative notebook, with a PDF compiled using LaTeX, provided that the provenance of the figures is clearly labeled in the main narrative, and the figures can be reproduced by running the analysis notebooks
 
 Specifically, you should address the following in the narrative.
 
