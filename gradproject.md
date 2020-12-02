@@ -208,7 +208,7 @@ Please submit the notebooks only as a zip file to submission link TBA. Use relat
 | [Proposal](#proposal) | November ~~17th~~ 18th, 11:59 pm PT | 5% (full credit for submitting on time) |
 | [Report draft for peer review](#draft) | November 24th, 11:59 pm PT | 5% (full credit for submitting on time) |
 | [Peer reviews](#review) | December 1st, 11:59 pm PT | 10% ([peer review rubric](https://docs.google.com/document/d/1-0QIm7pAKoeYbA8p3h3LmN69ROpiMD4pXXL3HpOKlkU/edit?usp=sharing))|
-| [Final report and presentation](#final) | December 9th, 11:59 pm PT| 75% (rubric TBD)|
+| [Final report and presentation](#final) | December 9th, 11:59 pm PT| 75% ([final report rubric](https://docs.google.com/document/d/1rT0PjSza8PggFSJxs1KIcEwlTERnbGzQ1mvOqcEUx5s/edit?usp=sharing))|
 
 ### <a name="signup"></a>Datasets selection and group signup (Due 11:59pm PT, November 12th)
 
