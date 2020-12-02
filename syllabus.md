@@ -143,8 +143,8 @@ Alternate exams will only be given to students with a documented conflict, or to
 
 | Category | Weight | Details |
 | --- | --- | --- |
-| Homeworks | 30% | 9, with 2 drops |
-| Labs | 10% | Roughly 13, with 3 drops |
+| Homeworks | 30% | 8, with 2 drops |
+| Labs | 10% | 13, with 3 drops |
 | Projects | 15% | 7.5% each (2, with 0 drops) |
 | Quick Checks | 5% | |
 | Midterm Exam | 15% | |
@@ -154,7 +154,7 @@ Alternate exams will only be given to students with a documented conflict, or to
 
 | Category | Weight | Details |
 | --- | --- | --- |
-| Homeworks | 30% | 9, with 2 drops |
+| Homeworks | 30% | 8, with 2 drops |
 | Projects | 15% | 7.5% each (2, with 0 drops) |
 | Final Project | 15% | |
 | Midterm Exam | 15% |  |
