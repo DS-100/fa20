@@ -86,19 +86,23 @@ Documentation for these two tables can be found in `DP03/ACSDP1Y2019.DP03_table_
 The project submission should include the following two components.
 
 1. **Analysis Notebooks**. The Jupyter Notebook(s) containing all the analyses that you performed on the datasets to support your claims in the narrative notebook. Make sure that all references to datasets are done as `data/[path to data files]`. You can copy the datasets from `~/shared/grad_proj/multiple_datasets` into `data/` at the top-level directory for your project on DataHub to do this.
-2. **Narrative Notebook**. This is a single Jupyter Notebook that summarizes your workflow and what you have learned. It should be structured as a research paper and include a title, list of authors, abstract, introduction, description of data, description of methods, summary of results, and discussion. Make sure to number figures and tables and include informative captions. Specifically, you should address the following in the narrative:
+2. **Narrative Notebook**. This is a single Jupyter Notebook that summarizes your workflow and what you have learned. It should be structured as a research paper and include a title, list of authors, abstract, introduction, description of data, description of methods, summary of results, and discussion. Make sure to number figures and tables and include informative captions. 
 
-    * Clearly stated research questions and why they are interesting and important. You must include **at least one research question involving multiple datasets**, but you may include additional research questions about each individual dataset. At least one of your research questions has to include a modeling component, e.g., can we build a model using climate data to predict growth in COVID-19 cases accurately? The modeling question does not need to be about multiple datasets.
-    * A brief survey of related work on the topic(s) of your analysis and how your project differs from or complements existing research.
-    * If applicable, descriptions of additional datasets that you gathered to support your analysis.
-    * Methodology: carefully describe the methods you use and why they are appropriate for answering your search questions. It must include 
-        * a brief overview of causal inference, which should be written in a way such that another student in Data 100 who has never been exposed to the concept can carry out the analyses involving multiple datasets in your project.
-        * a detailed description of how modeling is done in your project, including inference or prediction methods used, feature engineering and regularization if applicable, and cross-validation or test data as appropriate for model selection and evaluation.  
-    * _Interesting findings_* about each dataset when analyzed individually. Include visualizations and descriptions of data cleaning and data transformation necessary to perform the analysis that led to your findings.
-    * _Interesting findings_* involving multiple datasets. Include visualizations and descriptions of data cleaning and data transformation necessary to perform the analysis that led to your findings.
-    * Analysis of your findings to answer your research question(s). Include visualizations and specific results. If your research questions contain a modeling component, you must compare the results using different inference or prediction methods (e.g., linear regression, logistic regression, or classification and regression trees). Can you explain why some methods performed better than others?
-    * An evaluation of your approach and discuss any limitations of the methods you used.
-    * Describe any surprising discoveries that you made and future work.
+**UPDATE**: you can now replace the narrative notebook, and only the narrative notebook, with a PDF compiled using LaTeX, provided that the provenance of the figures are clearly labeled in the main narrative, and the figures can be reproduced by running the analysis notebooks
+
+Specifically, you should address the following in the narrative:
+
+* Clearly stated research questions and why they are interesting and important. You must include **at least one research question involving multiple datasets**, but you may include additional research questions about each individual dataset. At least one of your research questions has to include a modeling component, e.g., can we build a model using climate data to predict growth in COVID-19 cases accurately? The modeling question does not need to be about multiple datasets.
+* A brief survey of related work on the topic(s) of your analysis and how your project differs from or complements existing research.
+* If applicable, descriptions of additional datasets that you gathered to support your analysis.
+* Methodology: carefully describe the methods you use and why they are appropriate for answering your search questions. It must include 
+    * a brief overview of causal inference, which should be written in a way such that another student in Data 100 who has never been exposed to the concept can carry out the analyses involving multiple datasets in your project.
+    * a detailed description of how modeling is done in your project, including inference or prediction methods used, feature engineering and regularization if applicable, and cross-validation or test data as appropriate for model selection and evaluation.  
+* _Interesting findings_* about each dataset when analyzed individually. Include visualizations and descriptions of data cleaning and data transformation necessary to perform the analysis that led to your findings.
+* _Interesting findings_* involving multiple datasets. Include visualizations and descriptions of data cleaning and data transformation necessary to perform the analysis that led to your findings.
+* Analysis of your findings to answer your research question(s). Include visualizations and specific results. If your research questions contain a modeling component, you must compare the results using different inference or prediction methods (e.g., linear regression, logistic regression, or classification and regression trees). Can you explain why some methods performed better than others?
+* An evaluation of your approach and discuss any limitations of the methods you used.
+* Describe any surprising discoveries that you made and future work.
 
 \* Examples of **interesting findings**: interesting data distributions and trends, correlations between different features, the relationship between the data distribution for the general population and specific datasets (e.g., the gender distribution in the census dataset vs. in the mental health dataset), specific features that are notably effective/ineffective for prediction. 
 
@@ -169,7 +173,11 @@ Use the provided starter notebooks to complete the following aspects of the proj
 Note: We will run the notebooks in that order when grading, so please account for that.
 
 #### Project narrative. 
-This Jupyter Notebook should summarize your workflow and what you have learned. It should be structured as a research paper and include a title, list of authors, abstract, introduction, description of data, description of methods, summary of results, and discussion. Make sure to number figures and tables and include informative captions. Specifically, you should address the following in the narrative.
+This Jupyter Notebook should summarize your workflow and what you have learned. It should be structured as a research paper and include a title, list of authors, abstract, introduction, description of data, description of methods, summary of results, and discussion. Make sure to number figures and tables and include informative captions. 
+
+**UPDATE**: you can now replace the narrative notebook, and only the narrative notebook, with a PDF compiled using LaTeX, provided that the provenance of the figures are clearly labeled in the main narrative, and the figures can be reproduced by running the analysis notebooks
+
+Specifically, you should address the following in the narrative.
 
 * Frame the question.
 * Describe the data.
