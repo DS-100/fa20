@@ -10,7 +10,7 @@ days:
       "**Lecture 24**{: .label .label-lecture } [Big Data](lecture/lec24) (QC due Dec. 7)":
   - date: 2020-12-02
     events:
-      "**Discussion 13**{: .label .label-disc } [PCA, Clustering, & Big Data](https://drive.google.com/file/d/1BCYp_6p1Lrf-0b5ShGscF3UgwwaWHCNO/view?usp=sharing) [(video)](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqnMB-zKP1xN7MDv_Vkbny_)":
+      "**Discussion 13**{: .label .label-disc } [PCA, Clustering, & Big Data](https://drive.google.com/file/d/1BCYp_6p1Lrf-0b5ShGscF3UgwwaWHCNO/view?usp=sharing) [(video)](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqnMB-zKP1xN7MDv_Vkbny_) [(solutions)] (https://drive.google.com/file/d/13TtTmsTYDBRp6TR-Zfr_OV4zspXj1N2O/view?usp=sharing)":
   - date: 2020-12-03
     events:
       "**Lecture 25**{: .label .label-live } Conclusion (live, 9:30-11AM PST)":
