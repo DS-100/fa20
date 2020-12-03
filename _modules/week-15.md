@@ -13,7 +13,7 @@ days:
       "**Discussion 13**{: .label .label-disc } [PCA, Clustering, & Big Data](https://drive.google.com/file/d/1BCYp_6p1Lrf-0b5ShGscF3UgwwaWHCNO/view?usp=sharing) [(video)](https://www.youtube.com/playlist?list=PLQCcNQgUcDfqnMB-zKP1xN7MDv_Vkbny_) [(solutions)](https://drive.google.com/file/d/13TtTmsTYDBRp6TR-Zfr_OV4zspXj1N2O/view?usp=sharing)":
   - date: 2020-12-03
     events:
-      "**Lecture 25**{: .label .label-live } Conclusion (live, 9:30-11AM PST)":
+      "**Lecture 25**{: .label .label-live } Conclusion ([slides](https://docs.google.com/presentation/d/1pxQmkcfhqfoDSHpkAfKPsTfrVa99g1-eYXCiXQ818Xk/edit#slide=id.p)) (QC due Dec. 13)":
   - date: 2020-12-04
     events:
       "N/A":
