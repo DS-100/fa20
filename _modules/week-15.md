@@ -16,5 +16,5 @@ days:
       "**Lecture 25**{: .label .label-live } Conclusion ([slides](https://docs.google.com/presentation/d/1pxQmkcfhqfoDSHpkAfKPsTfrVa99g1-eYXCiXQ818Xk/edit#slide=id.p)) ([video](https://youtu.be/hpOopgKQ1qo)) (QC due Dec. 13)":
   - date: 2020-12-04
     events:
-      "N/A":
+      "**Survey**{: .label .label-survey } [Final Survey](https://docs.google.com/forms/d/e/1FAIpQLSflRjekGK79Io0uQspONEqVLA9EJj6G9vpsR7OEPHesqiTzpg/viewform) and [Official Course Evals](http://course-evaluations.berkeley.edu) (due Dec. 13)":
 ---
