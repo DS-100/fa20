@@ -272,7 +272,7 @@ studentIDs\
     studentIDs.mp4
 ```
 
-This accounts for 75% (out of 100%) of your project grade. Rubric to be released after the proposal deadline.
+This accounts for 75% (out of 100%) of your project grade. Follow the instructions in the Report Format and Submission section of the project option that you chose to prepare the zip file to be submitted via this [Google Form](https://forms.gle/uzMx1XUsofZ66Wnr8).
 
 
 ## References
