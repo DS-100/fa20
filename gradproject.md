@@ -110,7 +110,7 @@ The narrative notebook should include figures sparingly to support specific clai
 
 Tip: if you need to write a large amount of $\LaTeX$, you may want to use the `%%latex` cell magic.
 
-Please submit everything as a zip file to submission link TBA. Please make sure the folder in the zip file has the following structure:
+Please submit everything as a zip file to the final report submission link. Please make sure the folder in the zip file has the following structure:
 
 ```
 studentIDs/
@@ -196,7 +196,7 @@ Note 2: You are not allowed to use a neural network for your final classifier.
 
 **The accuracy of your final classifier on the test set will count for 25% of your grade on the final report.**
 
-Please submit the notebooks only as a zip file to submission link TBA. Use relative paths instead of absolute paths in your notebooks to faciliate notebook rerun. For groups with multiple members, please use student IDs joined by `_` as the name for the top-level directory.
+Please submit everything except the training and validation data as a zip file to the final report submission link. Use relative paths instead of absolute paths in your notebooks to faciliate notebook rerun. For groups with multiple members, please use student IDs joined by `_` as the name for the top-level directory.
 
 ## <a name="deliverables"></a>Deliverable Deadlines
 
@@ -271,6 +271,8 @@ studentIDs\
         ...
     studentIDs.mp4
 ```
+
+Feel free to include READMEs as necessary to help graders understand how to run your notebooks.
 
 This accounts for 75% (out of 100%) of your project grade. Follow the instructions in the Report Format and Submission section of the project option that you chose to prepare the zip file to be submitted via this [Google Form](https://forms.gle/uzMx1XUsofZ66Wnr8).
 
