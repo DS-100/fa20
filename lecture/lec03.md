@@ -4,6 +4,12 @@ title: Lecture 3 – Random Variables
 nav_exclude: true
 ---
 
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://ds100.org/)
+
+{: .warning }
+⚠️ This content is archived as of March 2026 and is retained exclusively for reference. [Find current offerings.](https://ds100.org/)
+
 # Lecture 3 – Random Variables
 
 Presented by Anthony D. Joseph and Suraj Rampure
